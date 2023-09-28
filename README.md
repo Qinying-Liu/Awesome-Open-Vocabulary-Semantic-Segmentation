@@ -1,4 +1,4 @@
-# Awesom-Open-Vocabulary-Semantic-Segmentation
+# Awesome-Open-Vocabulary-Semantic-Segmentation
 A curated publication list on awesom-Open-Vocabulary-Semantic-Segmentation.
 
 This repository was built to facilitate navigating the mainstream on weakly-supervised temporal action localization.  
