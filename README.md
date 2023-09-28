@@ -1,10 +1,7 @@
 # Awesome-Open-Vocabulary-Semantic-Segmentation
-A curated publication list on awesom-Open-Vocabulary-Semantic-Segmentation.
+A curated publication list on awesome open vocabulary semantic segmentation.
 
-This repository was built to facilitate navigating the mainstream on weakly-supervised temporal action localization.  
-Please note that only **accepted** papers (for reliability) by **conferences** (for brevity) are contained here.
-
-*Last updated: 2023/5/17 (CVPR'23 added)*
+This repository was built to facilitate navigating the mainstream on open vocabulary semantic segmentation.  
 
 ##
 
