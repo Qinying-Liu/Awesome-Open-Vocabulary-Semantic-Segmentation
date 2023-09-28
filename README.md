@@ -8,8 +8,8 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 ## Paper List
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2201.03546.pdf) | [`[code]`](https://github.com/isl-org/lang-seg)
-2. <span id = "1002">**[Hide-and-seek]**</span> | **ICCV'17** | Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization | [`[pdf]`](https://arxiv.org/pdf/1704.04232.pdf) | [`[o-torch]`](https://github.com/kkanshul/Hide-and-Seek)
-3. <span id = "1003">**[STPN]**</span> | **CVPR'18** | Weakly Supervised Action Localization by Sparse Temporal Pooling Network | [`[pdf]`](https://arxiv.org/pdf/1712.05080.pdf) | [`[u-tensorflow]`](https://github.com/bellos1203/STPN)
+2. <span id = "1002">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/pdf/2202.11094.pdf) | [`[code]`](https://github.com/NVlabs/GroupViT)
+3. <span id = "1003">**[OpenSeg]**</span> | **ECCV'22** | Scaling open-vocabulary image segmentation with image-level labels | [`[pdf]`](https://arxiv.org/pdf/2112.12143.pdf) | [`[code]`](https://github.com/tensorflow/tpu/tree/641c1ac6e26ed788327b973582cbfa297d7d31e7/models/official/detection/projects/openseg)
 4. <span id = "1004">**[AutoLoc]**</span> | **ECCV'18** | AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos | [`[pdf]`](https://arxiv.org/pdf/1807.08333.pdf) | [`[o-caffe]`](https://github.com/zhengshou/AutoLoc)
 5. <span id = "1005">**[W-TALC]**</span> | **ECCV'18** | W-TALC: Weakly-supervised Temporal Activity Localization and Classification | [`[pdf]`](https://arxiv.org/pdf/1807.10418.pdf) | [`[o-pytorch]`](https://github.com/sujoyp/wtalc-pytorch) | [`[o-tensorflow]`](https://github.com/sujoyp/wtalc-tensorflow)
 6. <span id = "1006">**[Zhong et al.]**</span> | **MM'18** | Step-by-step Erasion, One-by-one Collection: A Weakly Supervised Temporal Action Detector | [`[pdf]`](https://arxiv.org/pdf/1807.02929.pdf)
