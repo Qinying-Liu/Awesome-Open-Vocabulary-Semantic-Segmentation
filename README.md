@@ -37,5 +37,5 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 If you have any suggestions or find missing papers, please feel free to contact me.
 
-- [e-mail](mailto:lph1114@yonsei.ac.kr)
-- [pull request](https://github.com/Pilhyeon/weakly-supervised-temporal-action-localization/pulls)
+- [e-mail](mailto:lydyc@mail.ustc.edu.cn)
+- [pull request](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation/pulls)
