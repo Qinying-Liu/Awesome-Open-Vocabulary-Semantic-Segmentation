@@ -1,5 +1,5 @@
-# Awesome Weakly-supervised Temporal Action Localization
-A curated publication list on weakly-supervised temporal action localization.
+# Awesom-Open-Vocabulary-Semantic-Segmentation
+A curated publication list on awesom-Open-Vocabulary-Semantic-Segmentation.
 
 This repository was built to facilitate navigating the mainstream on weakly-supervised temporal action localization.  
 Please note that only **accepted** papers (for reliability) by **conferences** (for brevity) are contained here.
