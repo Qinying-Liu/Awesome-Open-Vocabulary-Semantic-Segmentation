@@ -11,6 +11,7 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 2. <span id = "1002">**[OpenSeg]**</span> | **ECCV'22** | Scaling open-vocabulary image segmentation with image-level labels | [`[pdf]`](https://arxiv.org/abs/2112.12143) | [`[code]`](https://github.com/tensorflow/tpu/tree/641c1ac6e26ed788327b973582cbfa297d7d31e7/models/official/detection/projects/openseg)
 3. <span id = "1003">**[Xu et al.]**</span> | **ECCV'22** | A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model | [`[pdf]`](https://arxiv.org/abs/2112.14757) | [`[code]`](https://github.com/MendelXu/zsseg.baseline)
 4. <span id = "1003">**[SegCLIP]**</span> | **ICML'23** | SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2211.14813) | [`[code]`](https://github.com/ArrowLuo/SegCLIP)
+5. <span id = "1003">**[SegCLIP]**</span> | **CVPR'23** | [Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP] | [`[pdf]`](https://arxiv.org/abs/2210.04150) | [`[code]`](https://github.com/facebookresearch/ov-seg)|
 
 ##
 
