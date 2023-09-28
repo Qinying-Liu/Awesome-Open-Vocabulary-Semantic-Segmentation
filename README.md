@@ -5,7 +5,7 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 ##
 
-## Supervised Open-vocabulary image segmentation
+## Fully-supervised Open-vocabulary image segmentation
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2201.03546.pdf) | [`[code]`](https://github.com/isl-org/lang-seg)
 2. <span id = "1002">**[OpenSeg]**</span> | **ECCV'22** | Scaling open-vocabulary image segmentation with image-level labels | [`[pdf]`](https://arxiv.org/pdf/2112.12143.pdf) | [`[code]`](https://github.com/tensorflow/tpu/tree/641c1ac6e26ed788327b973582cbfa297d7d31e7/models/official/detection/projects/openseg)
