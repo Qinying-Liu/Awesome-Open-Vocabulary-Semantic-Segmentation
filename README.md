@@ -5,7 +5,7 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 ##
 
-## Paper List
+## (Pixel-supervised) open-vocabulary image segmentation
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2201.03546.pdf) | [`[code]`](https://github.com/isl-org/lang-seg)
 2. <span id = "1002">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/pdf/2202.11094.pdf) | [`[code]`](https://github.com/NVlabs/GroupViT)
