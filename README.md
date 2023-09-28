@@ -3,6 +3,8 @@ A curated publication list on awesome open vocabulary semantic segmentation.
 
 This repository was built to facilitate navigating the mainstream on open vocabulary semantic segmentation.  
 
+The project is ongoing!
+
 ##
 
 ## Fully-supervised Open-vocabulary image segmentation
