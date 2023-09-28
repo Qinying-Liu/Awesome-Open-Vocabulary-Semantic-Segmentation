@@ -74,6 +74,10 @@ and Denoised Activations | [`[pdf]`](https://arxiv.org/pdf/2012.06440.pdf) | [`[
 
 ##
 
+## Text-supervised open-vocabulary image segmentation
+
+##
+
 ## Feedback
 
 If you have any suggestions or find missing papers, please feel free to contact me.
