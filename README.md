@@ -76,7 +76,7 @@ and Denoised Activations | [`[pdf]`](https://arxiv.org/pdf/2012.06440.pdf) | [`[
 
 ## Text-supervised open-vocabulary image segmentation
 
-##
+1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/pdf/2202.11094.pdf) | [`[code]`](https://github.com/NVlabs/GroupViT)
 
 ## Feedback
 
