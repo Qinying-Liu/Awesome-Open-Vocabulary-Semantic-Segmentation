@@ -7,7 +7,7 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 ## Paper List
 
-1. <span id = "1001">**[UntrimmedNets]**</span> | **CVPR'17** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2201.03546.pdf) | [`[code]`](https://github.com/isl-org/lang-seg)
+1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2201.03546.pdf) | [`[code]`](https://github.com/isl-org/lang-seg)
 2. <span id = "1002">**[Hide-and-seek]**</span> | **ICCV'17** | Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization | [`[pdf]`](https://arxiv.org/pdf/1704.04232.pdf) | [`[o-torch]`](https://github.com/kkanshul/Hide-and-Seek)
 3. <span id = "1003">**[STPN]**</span> | **CVPR'18** | Weakly Supervised Action Localization by Sparse Temporal Pooling Network | [`[pdf]`](https://arxiv.org/pdf/1712.05080.pdf) | [`[u-tensorflow]`](https://github.com/bellos1203/STPN)
 4. <span id = "1004">**[AutoLoc]**</span> | **ECCV'18** | AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos | [`[pdf]`](https://arxiv.org/pdf/1807.08333.pdf) | [`[o-caffe]`](https://github.com/zhengshou/AutoLoc)
