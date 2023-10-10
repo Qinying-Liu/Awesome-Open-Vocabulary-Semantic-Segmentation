@@ -8,6 +8,7 @@ The project is ongoing!
 ##
 
 ## Fully-supervised open-vocabulary segmentation
+The model is trained on full-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2201.03546) | [`[code]`](https://github.com/isl-org/lang-seg)
 2. <span id = "1001">**[ZegFormer]**</span> | **CVPR'22** | ZegFormer: Decoupling Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2112.07910) | [`[code]`](https://github.com/dingjiansw101/ZegFormer)
@@ -23,6 +24,7 @@ The project is ongoing!
 ##
 
 ## Weakly-supervised open-vocabulary segmentation
+The model is trained on weakly-supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
 
 1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2202.11094) | [`[code]`](https://github.com/NVlabs/GroupViT)
 2. <span id = "2002">**[ViL-Seg]**</span> | **ECCV'22** | Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding | [`[pdf]`](https://arxiv.org/abs/2207.08455)
@@ -43,6 +45,7 @@ The project is ongoing!
 ##
 
 ## Training-free open-vocabulary segmentation
+The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
 
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
 2. <span id = "3001">**[CLIP Surgery]**</span> | **Arxiv'23** | CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/abs/2304.05653) | [`[code]`](https://github.com/xmed-lab/CLIP_Surgery)
@@ -55,7 +58,7 @@ The project is ongoing!
 
 ## Feedback
 
-If you have any suggestions or find missing papers, please feel free to contact me.
+If you have any suggestions or find missing papers, please don't hesitate to contact me.
 
 - [e-mail](mailto:lydyc@mail.ustc.edu.cn)
 - [pull request](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation/pulls)
