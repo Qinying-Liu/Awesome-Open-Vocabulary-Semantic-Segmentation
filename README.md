@@ -50,7 +50,7 @@ The model is trained on weakly-supervised datasets with only image-level annotat
 15. <span id = "2005">**[Zhang et al.]**</span> | **Arxiv'23** | Associating Spatially-Consistent Grouping with Text-supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2304.01114)
 16. <span id = "2005">**[Zhang et al.]**</span> | **Arxiv'23** | SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation | [`[pdf]`](https://browse.arxiv.org/abs/2302.03432) 
 17. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
-18. <span id = "2005">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450) 
+
 
 
 ##
@@ -63,7 +63,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 3. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.09316)
 4. <span id = "3001">**[CLIP-DIY]**</span> | **Arxiv'23** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 5. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
-10. <span id = "3001">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450)
+
 
 
 
