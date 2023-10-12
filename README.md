@@ -9,7 +9,7 @@ The project is ongoing!
 
 ##
 
-## Fully-supervised Open-Vocabulary Semantic Segmentation
+## Fully-Supervised Open-Vocabulary Semantic Segmentation
 The model is trained on full-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2201.03546) | [`[code]`](https://github.com/isl-org/lang-seg)
@@ -33,7 +33,7 @@ The model is trained on full-supervised semantic segmentation datasets with pixe
 
 ##
 
-## Weakly-supervised Open-Vocabulary Semantic Segmentation
+## Weakly-Supervised Open-Vocabulary Semantic Segmentation
 The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
 
 1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2202.11094) | [`[code]`](https://github.com/NVlabs/GroupViT)
@@ -57,7 +57,7 @@ The model is trained on weakly supervised datasets with only image-level annotat
 
 ##
 
-## Training-free Open-Vocabulary Semantic Segmentation
+## Training-Free Open-Vocabulary Semantic Segmentation
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
 
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
