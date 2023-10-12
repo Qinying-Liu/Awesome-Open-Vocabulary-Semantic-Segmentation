@@ -5,7 +5,7 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 The project is ongoing!
 
-**If you find this project helpful, please consider giving it a star ⭐. **
+**If you find this project helpful, please consider giving it a star ⭐.**
 
 ##
 
