@@ -1,5 +1,5 @@
 # Awesome-Open-Vocabulary-Semantic-Segmentation
-A curated publication list on awesome open vocabulary semantic segmentation.
+A curated publication list on open vocabulary semantic segmentation.
 
 This repository was built to facilitate navigating the mainstream on open vocabulary semantic segmentation.  
 
