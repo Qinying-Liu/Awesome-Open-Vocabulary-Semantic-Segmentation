@@ -5,6 +5,8 @@ This repository was built to facilitate navigating the mainstream on open vocabu
 
 The project is ongoing!
 
+**If you find this project helpful, please consider giving it a star ⭐. **
+
 ##
 
 ## Fully-supervised Open-Vocabulary Semantic Segmentation
@@ -31,8 +33,8 @@ The model is trained on full-supervised semantic segmentation datasets with pixe
 
 ##
 
-## Weakly-supervised open-vocabulary segmentation
-The model is trained on weakly-supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
+## Weakly-supervised Open-Vocabulary Semantic Segmentation
+The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
 
 1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2202.11094) | [`[code]`](https://github.com/NVlabs/GroupViT)
 2. <span id = "2002">**[ViL-Seg]**</span> | **ECCV'22** | Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding | [`[pdf]`](https://arxiv.org/abs/2207.08455)
@@ -55,7 +57,7 @@ The model is trained on weakly-supervised datasets with only image-level annotat
 
 ##
 
-## Training-free open-vocabulary segmentation
+## Training-free Open-Vocabulary Semantic Segmentation
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
 
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
@@ -85,7 +87,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 ##
 
-## Related survey
+## Related Survey
 
 1. Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.05493)
 
@@ -98,4 +100,3 @@ If you have any suggestions or find missing papers, please don't hesitate to con
 - [e-mail](mailto:lydyc@mail.ustc.edu.cn)
 - [pull request](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation/pulls)
 
-If you find this project helpful, please consider giving it a star ⭐. 
