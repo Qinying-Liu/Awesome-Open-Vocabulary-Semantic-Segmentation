@@ -7,7 +7,7 @@ The project is ongoing!
 
 ##
 
-## Fully-supervised open-vocabulary segmentation
+## Fully-supervised Open-Vocabulary Semantic Segmentation
 The model is trained on full-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2201.03546) | [`[code]`](https://github.com/isl-org/lang-seg)
@@ -65,8 +65,31 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 5. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
 
 
+##
 
+## Open-Vocabulary Object Detection
 
+1. <span id = "3001">**[RO-ViT]**</span> | **CVPR'23(Highlight)** | Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers | [`[pdf]`](https://arxiv.org/abs/2305.07011) | [`[code]`](https://github.com/mcahny/rovit)
+2. <span id = "3001">**[CAT]**</span> | **CVPR'23** | CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection | [`[pdf]`](https://arxiv.org/abs/2301.01970) | [`[code]`](https://github.com/xiaomabufei/CAT)
+3. <span id = "3001">**[DetCLIPv2]**</span> | **CVPR'23** | DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment | [`[pdf]`](https://arxiv.org/abs/2304.04514) 
+4. <span id = "3001">**[CondHead]**</span> | **CVPR'23** | Learning to Detect and Segment for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2212.12130)
+5. <span id = "3001">**[CORA]**</span> | **CVPR'23** | CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching | [`[pdf]`](https://arxiv.org/abs/2303.13076)  | [`[code]`](https://github.com/tgxs002/CORA)
+6. <span id = "3001">**[ovdet]**</span> | **CVPR'23** | Aligning Bag of Regions for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2302.13996)  | [`[code]`](https://github.com/wusize/ovdet)
+7. <span id = "3001">**[OADP]**</span> | **CVPR'23** | Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2303.05892)  | [`[code]`](https://github.com/LutingWang/OADP)
+8. <span id = "3001">**[F-VLM]**</span> | **ICLR'23** | F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models | [`[pdf]`](https://arxiv.org/abs/2209.15639)  | [`[code]`](https://github.com/google-research/google-research/tree/master/fvlm)
+9. <span id = "3001">**[MMC-Det]**</span> | **Arxiv'23** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.15846) 
+10. <span id = "3001">**[IPL]**</span> | **Arxiv'23** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412) 
+11. <span id = "3001">**[mm-ovod]**</span> | **ICML 2023** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2306.05493)  | [`[code]`](https://github.com/prannaykaul/mm-ovod)
+12. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
+13. <span id = "3001">**[SGDN]**</span> | **Arxiv'23** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
+
+##
+
+## Related survey
+
+1. Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.05493)
+
+2. A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future | [`[pdf]`](https://arxiv.org/abs/2307.09220)
 
 ## Feedback
 
