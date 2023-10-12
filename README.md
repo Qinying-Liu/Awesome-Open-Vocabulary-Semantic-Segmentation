@@ -6,7 +6,7 @@ A curated publication list on open vocabulary semantic segmentation.
 ##
 
 ## Fully-Supervised Open-Vocabulary Semantic Segmentation
-The model is trained on full-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
+The model is trained on fully-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
 
 1. <span id = "1001">**[LSeg]**</span> | **ICLR'22** | Language-driven Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2201.03546) | [`[code]`](https://github.com/isl-org/lang-seg)
 2. <span id = "1001">**[ZegFormer]**</span> | **CVPR'22** | ZegFormer: Decoupling Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2112.07910) | [`[code]`](https://github.com/dingjiansw101/ZegFormer)
