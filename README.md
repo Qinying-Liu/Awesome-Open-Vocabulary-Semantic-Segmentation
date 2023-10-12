@@ -70,6 +70,8 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 ## Feedback
 
+If you find this project helpful, please consider giving it a star. 
+
 If you have any suggestions or find missing papers, please don't hesitate to contact me.
 
 - [e-mail](mailto:lydyc@mail.ustc.edu.cn)
