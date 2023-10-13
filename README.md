@@ -7,7 +7,11 @@ A curated publication list on open vocabulary semantic segmentation.
 <!-- vim-markdown-toc GitLab -->
 
 * [Open-Vocabulary Semantic Segmentation](#Open-Vocabulary-Semantic-Segmentation)
-  * [Weakly-Supervised Open-Vocabulary Semantic Segmentation](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
+  * [Fully-Supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
+  * [Weakly-Supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
+  * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
+* [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
+* [Related Survey](#Related-Survey)
 <!-- vim-markdown-toc -->
 
 ## Open-Vocabulary Semantic Segmentation
