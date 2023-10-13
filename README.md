@@ -95,7 +95,6 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 ## Related Survey
 
 1. Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.15880)
-
 2. A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future | [`[pdf]`](https://arxiv.org/abs/2307.09220)
 
 ## Feedback
