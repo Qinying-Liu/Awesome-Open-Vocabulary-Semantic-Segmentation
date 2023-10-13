@@ -5,7 +5,6 @@ A curated publication list on open vocabulary semantic segmentation.
 
 ## Open-Vocabulary Semantic Segmentation
 
-###
 
 ### Fully-Supervised Open-Vocabulary Semantic Segmentation
 The model is trained on fully-supervised semantic segmentation datasets with pixel-level annotations (e.g., COCO Stuff dataset).
@@ -31,8 +30,6 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 19. <span id = "1003">**[HIPIE]**</span> | **NeurIPS'23** | Hierarchical Open-vocabulary Universal Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2307.00764) | [`[code]`](https://github.com/berkeley-hipie/HIPIE)
 20. <span id = "1003">**[FC-CLIP]**</span> | **NeurIPS'23** | Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP | [`[pdf]`](https://arxiv.org/abs/2308.02487) | [`[code]`](https://github.com/bytedance/fc-clip)
 
-###
-
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
 
@@ -53,7 +50,6 @@ The model is trained on weakly supervised datasets with only image-level annotat
 18. <span id = "2005">**[SimCon]**</span> | **Arxiv'23** | SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation | [`[pdf]`](https://browse.arxiv.org/abs/2302.03432) 
 19. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
 
-###
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
