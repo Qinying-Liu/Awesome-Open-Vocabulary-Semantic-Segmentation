@@ -3,21 +3,11 @@ A curated publication list on open vocabulary semantic segmentation.
 
 **If you find this project helpful, please consider giving it a star ⭐.**
 
-### Contents
+## Contents
 <!-- vim-markdown-toc GitLab -->
 
-* [Open-Vocabulary Semantic Segmentation](#open-vocabulary semantic segmentation)
-* [Challenges](#challenges)
-* [Theoretical Analysis](#theoretical-analysis)
-* [Parameter Optimize Based Few-shot Learning](#parameter-optimize-based-few-shot-learning)
-  * [Papers](#papers)
-* [Generative Based Few-shot Learning](#generative-based-few-shot-learning)
-  * [Papers](#papers-1)
-* [Metric Based Few-shot Learning](#metric-based-few-shot-learning)
-  * [Classic Methods](#classic-methods)
-  * [Features Extractor Enhanced Methods](#features-extractor-enhanced-methods)
-  * [Proto-Enhanced Methods](#proto-enhanced-methods)
-  * [Metric Functions / Graph based methods](#metric-functions-graph-based-methods)
+* [Open-Vocabulary Semantic Segmentation](##Open-Vocabulary-Semantic-Segmentation)
+<!-- vim-markdown-toc -->
 
 ## Open-Vocabulary Semantic Segmentation
 
