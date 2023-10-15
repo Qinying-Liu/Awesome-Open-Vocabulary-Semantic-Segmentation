@@ -98,8 +98,5 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 ## Feedback
 
-If you have any suggestions or find missing papers, please don't hesitate to contact me.
-
-- [e-mail](mailto:lydyc@mail.ustc.edu.cn)
-- [pull request](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation/pulls)
+If you have any suggestions or find missing papers, please don't hesitate to contact me via [lydyc@mail.ustc.edu.cn](mailto:lydyc@mail.ustc.edu.cn).
 
