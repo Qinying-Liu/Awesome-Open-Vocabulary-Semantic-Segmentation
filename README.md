@@ -68,9 +68,9 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
 2. <span id = "3001">**[CLIP Surgery]**</span> | **Arxiv'23** | CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/abs/2304.05653) | [`[code]`](https://github.com/xmed-lab/CLIP_Surgery)
 3. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.09316)
-4. <span id = "3001">**[CLIP-DIY]**</span> | **Arxiv'23** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
-5. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
-6. <span id = "3001">**[IPSeg]**</span> | **Arxiv'23** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
+4. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
+5. <span id = "3001">**[IPSeg]**</span> | **Arxiv'23** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
+6. <span id = "3001">**[CLIP-DIY]**</span> | **WACV'24** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 
 
 ##
