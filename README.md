@@ -41,6 +41,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 20. <span id = "2005">**[Li et al.]**</span> | **ICCV'23** | Open-vocabulary Object Segmentation with Diffusion Models | [`[pdf]`](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Open-vocabulary_Object_Segmentation_with_Diffusion_Models_ICCV_2023_paper.html) | [`[code]`](https://github.com/Lipurple/Grounded-Diffusion)
 21. <span id = "1003">**[HIPIE]**</span> | **NeurIPS'23** | Hierarchical Open-vocabulary Universal Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2307.00764) | [`[code]`](https://github.com/berkeley-hipie/HIPIE)
 22. <span id = "1003">**[FC-CLIP]**</span> | **NeurIPS'23** | Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP | [`[pdf]`](https://arxiv.org/abs/2308.02487) | [`[code]`](https://github.com/bytedance/fc-clip)
+23. <span id = "2005">**[SAM-CLIP]**</span> | **Arixv'23.10** | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding | [`[pdf]`](https://arxiv.org/abs/2310.15308)
+24. <span id = "2005">**[Dao et al]**</span> | **TMM** | Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10306291)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
@@ -61,8 +63,7 @@ The model is trained on weakly supervised datasets with only image-level annotat
 14. <span id = "2005">**[Zhang et al.]**</span> | **Arxiv'23** | Associating Spatially-Consistent Grouping with Text-supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2304.01114)
 15. <span id = "2005">**[SimCon]**</span> | **Arxiv'23** | SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation | [`[pdf]`](https://browse.arxiv.org/abs/2302.03432) 
 16. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
-17. <span id = "2005">**[PGSeg]**</span> | **NeurIPS'23** | Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2310.19001.pdf) | [`[code]`](https://github.com/Ferenas/PGSeg)
-
+17. <span id = "2005">**[PGSeg]**</span> | **NeurIPS'23** | Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2310.19001) | [`[code]`](https://github.com/Ferenas/PGSeg)
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
