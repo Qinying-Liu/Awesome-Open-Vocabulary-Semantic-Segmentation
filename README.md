@@ -45,7 +45,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 24. <span id = "2005">**[Dao et al]**</span> | **TMM** | Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10306291)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
-The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset).
+[text-supervised/language-supervised] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
 
 1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2202.11094) | [`[code]`](https://github.com/NVlabs/GroupViT)
 2. <span id = "2002">**[ViL-Seg]**</span> | **ECCV'22** | Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding | [`[pdf]`](https://arxiv.org/abs/2207.08455)
@@ -65,6 +65,7 @@ The model is trained on weakly supervised datasets with only image-level annotat
 16. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
 17. <span id = "2005">**[PGSeg]**</span> | **NeurIPS'23** | Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2310.19001) | [`[code]`](https://github.com/Ferenas/PGSeg)
 
+
 ### Training-Free Open-Vocabulary Semantic Segmentation
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
 
@@ -76,7 +77,10 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 6. <span id = "3001">**[CLIP-DIY]**</span> | **WACV'24** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 
 
-##
+### Others
+
+1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
+
 
 ## Open-Vocabulary Object Detection
 
