@@ -9,6 +9,7 @@
   * [Fully-Supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
+  * [Others](#Others)
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
 * [Related Survey](#Related-Survey)
 <!-- vim-markdown-toc -->
