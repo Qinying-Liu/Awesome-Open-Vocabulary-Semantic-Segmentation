@@ -10,11 +10,12 @@
   * [Weakly-Supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
-* [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
-* [Related Survey](#Related-Survey)
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation)
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
+* [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
+* [Related Survey](#Related-Survey)
+ 
 <!-- vim-markdown-toc -->
 
 ## Open-Vocabulary Semantic Segmentation
