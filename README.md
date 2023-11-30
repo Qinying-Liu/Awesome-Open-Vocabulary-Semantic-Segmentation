@@ -76,12 +76,13 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
 
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
-2. <span id = "3001">**[CLIP Surgery]**</span> | **Arxiv'23.04** | CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/abs/2304.05653) | [`[code]`](https://github.com/xmed-lab/CLIP_Surgery)
-3. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23.06** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.09316)
-4. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23.09** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
-5. <span id = "3001">**[IPSeg]**</span> | **Arxiv'23.10** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
+2. <span id = "3001">**[ReCo]**</span> | **NeurIPS'22** | ReCo: Retrieve and Co-segment for Zero-shot Transfer | [`[pdf]`](https://arxiv.org/abs/2206.07045)  | [`[code]`](https://github.com/NoelShin/reco) 
+3. <span id = "3001">**[CLIP Surgery]**</span> | **Arxiv'23.04** | CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/abs/2304.05653) | [`[code]`](https://github.com/xmed-lab/CLIP_Surgery)
+4. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23.06** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.09316)
+5. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23.09** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773)
 6. <span id = "3001">**[CLIP-DIY]**</span> | **WACV'24** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
-7. <span id = "3001">**[PnP-OVSS]**</span> | **Arxiv'23.11** | Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models | [`[pdf]`](https://arxiv.org/abs/2311.17095)
+7. <span id = "3001">**[IPSeg]**</span> | **Arxiv'23.10** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
+8. <span id = "3001">**[PnP-OVSS]**</span> | **Arxiv'23.11** | Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models | [`[pdf]`](https://arxiv.org/abs/2311.17095)
 
 
 ### Others
