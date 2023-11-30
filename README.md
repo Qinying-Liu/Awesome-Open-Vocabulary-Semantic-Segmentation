@@ -85,7 +85,9 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 ### Others
 
-1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
+1.<span id = "4001">**[SEEM]**</span> | **ArXiv'23.04** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+2. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
+
 
 
 ## Referring-Image-Segmentation
@@ -97,7 +99,6 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 3. <span id = "3001">**[Group-RES]**</span> | **ICCV'23** | Advancing Referring Expression Segmentation Beyond Single Image | [`[pdf]`](https://arxiv.org/abs/2305.12452) | [`[code]`](https://github.com/yixuan730/group-res)
 4. <span id = "3001">**[RIS-DMMI]**</span> | **ICCV'23** | Beyond One-to-One: Rethinking the Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2308.13853) | [`[code]`](https://github.com/toggle1995/RIS-DMMI)
 5. <span id = "3001">**[ETRIS]**</span> | **ICCV'23** | Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2307.11545.pdf) | [`[code]`](https://arxiv.org/pdf/2307.11545.pdf)
-6. <span id = "3001">**[SEEM]**</span> | **arXiv'23** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
  ### Weakly-Supervised Referring Image Segmentation
  
@@ -112,13 +113,13 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 6. <span id = "3001">**[ovdet]**</span> | **CVPR'23** | Aligning Bag of Regions for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2302.13996)  | [`[code]`](https://github.com/wusize/ovdet)
 7. <span id = "3001">**[OADP]**</span> | **CVPR'23** | Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2303.05892)  | [`[code]`](https://github.com/LutingWang/OADP)
 8. <span id = "3001">**[F-VLM]**</span> | **ICLR'23** | F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models | [`[pdf]`](https://arxiv.org/abs/2209.15639)  | [`[code]`](https://github.com/google-research/google-research/tree/master/fvlm)
-9. <span id = "3001">**[MMC-Det]**</span> | **Arxiv'23** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.15846) 
-10. <span id = "3001">**[IPL]**</span> | **Arxiv'23** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412) 
-11. <span id = "3001">**[mm-ovod]**</span> | **ICML 2023** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2306.05493)  | [`[code]`](https://github.com/prannaykaul/mm-ovod)
-12. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
-13. <span id = "3001">**[SGDN]**</span> | **Arxiv'23** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
+9. <span id = "3001">**[mm-ovod]**</span> | **ICML 2023** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2306.05493)  | [`[code]`](https://github.com/prannaykaul/mm-ovod)
+10. <span id = "3001">**[SGDN]**</span> | **Arxiv'23.07** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
+11. <span id = "3001">**[MMC-Det]**</span> | **Arxiv'23.08** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.15846) 
+12. <span id = "3001">**[IPL]**</span> | **Arxiv'23.08** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412) 
+13. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
 14. <span id = "3001">**[LP-OVOD]**</span> | **WACV'24** | LP-OVOD: Open-Vocabulary Object Detection by Linear Probing | [`[pdf]`](https://arxiv.org/abs/2310.17109)
-15. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
+15. <span id = "3001">**[DST-Det]**</span> | **Arxiv'2310** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
 16. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 
 
