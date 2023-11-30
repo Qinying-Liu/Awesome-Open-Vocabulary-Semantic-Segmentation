@@ -99,10 +99,13 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 2. <span id = "3001">**[BKINet]**</span> | **TMM'23** | Bilateral Knowledge Interaction Network for Referring Image Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10227590) | [`[code]`](https://github.com/dhding/BKINet)
 3. <span id = "3001">**[Group-RES]**</span> | **ICCV'23** | Advancing Referring Expression Segmentation Beyond Single Image | [`[pdf]`](https://arxiv.org/abs/2305.12452) | [`[code]`](https://github.com/yixuan730/group-res)
 4. <span id = "3001">**[RIS-DMMI]**</span> | **ICCV'23** | Beyond One-to-One: Rethinking the Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2308.13853) | [`[code]`](https://github.com/toggle1995/RIS-DMMI)
-5. <span id = "3001">**[ETRIS]**</span> | **ICCV'23** | Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2307.11545.pdf) | [`[code]`](https://arxiv.org/pdf/2307.11545.pdf)
+5. <span id = "3001">**[ETRIS]**</span> | **ICCV'23** | Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2307.11545.pdf) | [`[code]`](https://github.com/kkakkkka/ETRIS)
 6. <span id = "4001">**[SEEM]**</span> | **ArXiv'23.04** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
  ### Weakly-Supervised Referring Image Segmentation
+
+ 1. <span id = "3001">**[Kim et al.]**</span> | **ICCV'23** | Shatter and Gather: Learning Referring Image Segmentation with Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.15512) | [`[code]`](https://github.com/kdwonn/SaG)
+ 2. <span id = "3001">**[Liu et al.]**</span> | **ICCV'23** | Referring Image Segmentation Using Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.14575) | [`[code]`](https://github.com/fawnliu/TRIS)
  
 
 ## Open-Vocabulary Object Detection
