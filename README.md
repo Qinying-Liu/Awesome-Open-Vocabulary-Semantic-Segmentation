@@ -13,6 +13,8 @@
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
 * [Related Survey](#Related-Survey)
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation)
+  * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
+  * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
 <!-- vim-markdown-toc -->
 
 ## Open-Vocabulary Semantic Segmentation
@@ -85,6 +87,20 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
 
 
+## Referring-Image-Segmentation
+
+### Fully-Supervised Referring Image Segmentation
+
+1. <span id = "3001">**[CARIS]**</span> | **ACM MM'23** | CARIS: Context-Aware Referring Image Segmentation | [`[pdf]`](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | [`[code]`](https://github.com/lsa1997/CARIS)
+2. <span id = "3001">**[BKINet]**</span> | **TMM'23** | Bilateral Knowledge Interaction Network for Referring Image Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10227590) | [`[code]`](https://github.com/dhding/BKINet)
+3. <span id = "3001">**[Group-RES]**</span> | **ICCV'23** | Advancing Referring Expression Segmentation Beyond Single Image | [`[pdf]`](https://arxiv.org/abs/2305.12452) | [`[code]`](https://github.com/yixuan730/group-res)
+4. <span id = "3001">**[RIS-DMMI]**</span> | **ICCV'23** | Beyond One-to-One: Rethinking the Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2308.13853) | [`[code]`](https://github.com/toggle1995/RIS-DMMI)
+5. <span id = "3001">**[ETRIS]**</span> | **ICCV'23** | Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2307.11545.pdf) | [`[code]`](https://arxiv.org/pdf/2307.11545.pdf)
+6. <span id = "3001">**[SEEM]**</span> | **arXiv'23** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+
+ ### Weakly-Supervised Referring Image Segmentation
+ 
+
 ## Open-Vocabulary Object Detection
 
 1. <span id = "3001">**[RO-ViT]**</span> | **CVPR'23(Highlight)** | Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers | [`[pdf]`](https://arxiv.org/abs/2305.07011) | [`[code]`](https://github.com/mcahny/rovit)
@@ -104,23 +120,13 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 15. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
 16. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 
-##
 
 ## Related Survey
 
 1. Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.15880)
 2. A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future | [`[pdf]`](https://arxiv.org/abs/2307.09220)
 
-
-
-## Referring-Image-Segmentation
-
-1. <span id = "3001">**[CARIS]**</span> | **ACM MM'23** | CARIS: Context-Aware Referring Image Segmentation | [`[pdf]`](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | [`[code]`](https://github.com/lsa1997/CARIS)
-2. <span id = "3001">**[BKINet]**</span> | **TMM'23** | Bilateral Knowledge Interaction Network for Referring Image Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10227590) | [`[code]`](https://github.com/dhding/BKINet)
-3. <span id = "3001">**[Group-RES]**</span> | **ICCV'23** | Advancing Referring Expression Segmentation Beyond Single Image | [`[pdf]`](https://arxiv.org/abs/2305.12452) | [`[code]`](https://github.com/yixuan730/group-res)
-4. <span id = "3001">**[RIS-DMMI]**</span> | **ICCV'23** | Beyond One-to-One: Rethinking the Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2308.13853) | [`[code]`](https://github.com/toggle1995/RIS-DMMI)
-5. <span id = "3001">**[ETRIS]**</span> | **ICCV'23** | Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2307.11545.pdf) | [`[code]`](https://arxiv.org/pdf/2307.11545.pdf)
-6. <span id = "3001">**[SEEM]**</span> | **arXiv'23** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)    
+ 
 
 
 ## Feedback
