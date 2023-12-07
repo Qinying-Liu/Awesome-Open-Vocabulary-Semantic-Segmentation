@@ -124,13 +124,15 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 9. <span id = "3001">**[mm-ovod]**</span> | **ICML 2023** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2306.05493)  | [`[code]`](https://github.com/prannaykaul/mm-ovod)
 10. <span id = "3001">**[SGDN]**</span> | **Arxiv'23.07** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
 11. <span id = "3001">**[MMC-Det]**</span> | **Arxiv'23.08** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.15846) 
-12. <span id = "3001">**[IPL]**</span> | **Arxiv'23.08** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412) 
-13. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
-14. <span id = "3001">**[LP-OVOD]**</span> | **WACV'24** | LP-OVOD: Open-Vocabulary Object Detection by Linear Probing | [`[pdf]`](https://arxiv.org/abs/2310.17109) | [`[code]`](https://github.com/wysoczanska/clip-diy)
-15. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
-16. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
-17. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
-17. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf)
+12. <span id = "3001">**[IPL]**</span> | **Arxiv'23.08** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412)
+13. <span id = "3001">**[DITO]**</span> | **Arxiv'23.09** | Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection | [`[pdf]`](https://arxiv.org/pdf/2310.00161v1.pdf) | [`[code]`](https://github.com/google-research/google-research/tree/master/fvlm/dito)
+14. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
+15. <span id = "3001">**[LP-OVOD]**</span> | **WACV'24** | LP-OVOD: Open-Vocabulary Object Detection by Linear Probing | [`[pdf]`](https://arxiv.org/abs/2310.17109) | [`[code]`](https://github.com/wysoczanska/clip-diy)
+16. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
+17. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
+18. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
+19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf)
+
 
 
 ## Related Survey
