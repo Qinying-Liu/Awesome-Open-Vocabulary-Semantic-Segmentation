@@ -130,8 +130,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 15. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
 16. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 17. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
-17. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`]([https://arxiv.org/pdf/2312.02103.pdf](https://arxiv.org/pdf/2312.03628.pdf))
-
+17. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf)
 
 
 ## Related Survey
