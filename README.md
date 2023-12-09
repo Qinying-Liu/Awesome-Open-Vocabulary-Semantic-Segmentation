@@ -48,6 +48,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 22. <span id = "2005">**[Dao et al]**</span> | **TMM** | Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10306291)
 23. <span id = "1003">**[ADA]**</span> | **Arxiv'23.09** | Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation | [`[pdf]`](https://arxiv.org/abs/2309.00096)
 24. <span id = "1003">**[SED]**</span> | **Arxiv'23.11** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537)
+25. <span id = "1003">**[SELF-SEG]**</span> | **Arixv'23.12** | Self-Guided Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.04539) | [`[code]`](https://github.com/bytedance/fc-clip)
+26. <span id = "1003">**[SCAN]**</span> | **Arixv'23.12** | Open-Vocabulary Segmentation with Semantic-Assisted Calibration | [`[pdf]`](https://arxiv.org/abs/2312.04089) | [`[code]`](https://github.com/workforai/SCAN)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [text-supervised/language-supervised] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
