@@ -72,6 +72,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 16. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
 17. <span id = "2005">**[PGSeg]**</span> | **NeurIPS'23** | Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2310.19001) | [`[code]`](https://github.com/Ferenas/PGSeg)
 18. <span id = "2005">**[SAM-CLIP]**</span> | **Arixv'23.10** | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding | [`[pdf]`](https://arxiv.org/abs/2310.15308)
+19. <span id = "2005">**[CLIP-DINOiser]**</span> | **Arixv'23.12** | CLIP-DINOiser: Teaching CLIP a few DINO tricks | [`[pdf]`](https://arxiv.org/abs/2312.12359)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
