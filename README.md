@@ -73,6 +73,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 17. <span id = "2005">**[PGSeg]**</span> | **NeurIPS'23** | Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2310.19001) | [`[code]`](https://github.com/Ferenas/PGSeg)
 18. <span id = "2005">**[SAM-CLIP]**</span> | **Arixv'23.10** | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding | [`[pdf]`](https://arxiv.org/abs/2310.15308)
 19. <span id = "2005">**[CLIP-DINOiser]**</span> | **Arixv'23.12** | CLIP-DINOiser: Teaching CLIP a few DINO tricks | [`[pdf]`](https://arxiv.org/abs/2312.12359)
+20. <span id = "2005">**[TagAlign]**</span> | **Arixv'23.12** | TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification | [`[pdf]`](https://arxiv.org/abs/2312.14149) | [`[code]`](https://qinying-liu.github.io/Tag-Align/)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
@@ -89,6 +90,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 9. <span id = "3001">**[SCLIP]**</span> | **Arxiv'23.12** | SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/abs/2312.01597)
 10. <span id = "3001">**[GEM]**</span> | **Arxiv'23.12** | Grounding Everything: Emerging Localization Properties in Vision-Language Transformers | [`[pdf]`](https://arxiv.org/abs/2312.00878) | [`[code]`](https://github.com/WalBouss/GEM)
 11. <span id = "3001">**[CaR]**</span> | **Arxiv'23.12** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://torrvision.com/clip_as_rnn/)
+12. <span id = "3001">**[FOSSIL]**</span> | **Arxiv'23.12** | FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval | [`[pdf]`](https://openaccess.thecvf.com/content/WACV2024/html/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.html) 
 
 
 ### Others
