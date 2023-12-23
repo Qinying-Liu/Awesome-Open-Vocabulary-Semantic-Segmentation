@@ -50,6 +50,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 24. <span id = "1003">**[SED]**</span> | **Arxiv'23.11** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537)
 25. <span id = "1003">**[SELF-SEG]**</span> | **Arixv'23.12** | Self-Guided Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.04539) 
 26. <span id = "1003">**[SCAN]**</span> | **Arixv'23.12** | Open-Vocabulary Segmentation with Semantic-Assisted Calibration | [`[pdf]`](https://arxiv.org/abs/2312.04089) | [`[code]`](https://github.com/workforai/SCAN)
+27. <span id = "1003">**[OpenSD]**</span> | **Arixv'23.12** | OpenSD: Unified Open-Vocabulary Segmentation and Detection | [`[pdf]`](https://arxiv.org/abs/2312.06703) | [`[code]`](https://github.com/strongwolf/OpenSD)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [text-supervised/language-supervised] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
