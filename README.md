@@ -10,6 +10,8 @@
   * [Weakly-Supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
+* [Zero-Shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation)
+  
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation)
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
@@ -99,6 +101,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
 
+## Zero-shot Semantic Segmentation
 
 
 ## Referring-Image-Segmentation
