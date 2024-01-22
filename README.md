@@ -144,11 +144,11 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 16. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
 17. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 18. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
-19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
+19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/ucas-vg/Sambor)
 
 ## Universal Semantic Segmentation
 
-1. <span id = "3001">**[OMG-Seg]**</span> | **Arxiv'24.01** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf)
+1. <span id = "3001">**[OMG-Seg]**</span> | **Arxiv'24.01** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 
 ## Related Survey
 
