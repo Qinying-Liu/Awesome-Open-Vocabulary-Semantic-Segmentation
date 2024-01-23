@@ -16,8 +16,9 @@
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
+* [Universal Semantic Segmentation](#Universal-Semantic-Segmentation)
 * [Related Survey](#Related-Survey)
- 
+
 <!-- vim-markdown-toc -->
 
 ## Open-Vocabulary Semantic Segmentation
