@@ -80,6 +80,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 19. <span id = "2005">**[CLIPSelf]**</span> | **Arixv'23.10** | CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction | [`[pdf]`](https://arxiv.org/abs/2310.01403) | [`[code]`](https://github.com/wusize/CLIPSelf)
 20. <span id = "2005">**[CLIP-DINOiser]**</span> | **Arixv'23.12** | CLIP-DINOiser: Teaching CLIP a few DINO tricks | [`[pdf]`](https://arxiv.org/abs/2312.12359) | [`[code]`](https://github.com/wysoczanska/clip_dinoiser)
 21. <span id = "2005">**[TagAlign]**</span> | **Arixv'23.12** | TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification | [`[pdf]`](https://arxiv.org/abs/2312.14149) | [`[code]`](https://github.com/Qinying-Liu/TagAlign)
+22. <span id = "2005">**[S-Seg]**</span> | **Arixv'24.01** | Exploring Simple Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2401.12217) | [`[code]`](https://github.com/zlai0/S-Seg)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
