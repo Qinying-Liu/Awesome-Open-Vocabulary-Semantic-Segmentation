@@ -6,9 +6,10 @@
 <!-- vim-markdown-toc GitLab -->
 
 * [Open-Vocabulary Semantic Segmentation](#Open-Vocabulary-Semantic-Segmentation)
-  * [Fully-Supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
-  * [Weakly-Supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
+  * [Fully-supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
+  * [Weakly-supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
+  * [SAM-based Methods](#SAM-Based-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
 * [Zero-Shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation)
   
@@ -99,6 +100,8 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 11. <span id = "3001">**[CaR]**</span> | **Arxiv'23.12** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://torrvision.com/clip_as_rnn/)
 12. <span id = "3001">**[FOSSIL]**</span> | **WACV'24** | FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval | [`[pdf]`](https://openaccess.thecvf.com/content/WACV2024/html/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.html)
 13. <span id = "3001">**[TagCLIP]**</span> | **AAAI'24** | TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training | [`[pdf]`](https://arxiv.org/abs/2312.12828) | [`[code]`](https://github.com/linyq2117/TagCLIP)
+
+### SAM-Based Open-Vocabulary Semantic Segmentation
 
 
 ### Others
