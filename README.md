@@ -152,6 +152,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 17. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 18. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
 19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/ucas-vg/Sambor)
+20. <span id = "3001">**[Sambor]**</span> | **ICLR'24** | LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors | [`[pdf]`](https://arxiv.org/pdf/2402.04630.pdf)
 
 ## Universal Semantic Segmentation
 
