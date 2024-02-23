@@ -106,6 +106,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
 
 ## Zero-Shot Semantic Segmentation
+Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods split each dataset to seen classes and unseen classes.
 
 1. <span id = "1001">**[ZegFormer]**</span> | **CVPR'22** | ZegFormer: Decoupling Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2112.07910) | [`[code]`](https://github.com/dingjiansw101/ZegFormer)
 2. <span id = "1002">**[Xu et al.]**</span> | **ECCV'22** | A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model | [`[pdf]`](https://arxiv.org/abs/2112.14757) | [`[code]`](https://github.com/MendelXu/zsseg.baseline)
