@@ -9,9 +9,7 @@
   * [Fully-supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Weakly-supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
-  * [SAM-based Methods](#SAM-Based-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
-* [Zero-Shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation)
   
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation)
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
@@ -102,17 +100,9 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 12. <span id = "3001">**[FOSSIL]**</span> | **WACV'24** | FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval | [`[pdf]`](https://openaccess.thecvf.com/content/WACV2024/html/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.html)
 13. <span id = "3001">**[TagCLIP]**</span> | **AAAI'24** | TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training | [`[pdf]`](https://arxiv.org/abs/2312.12828) | [`[code]`](https://github.com/linyq2117/TagCLIP)
 
-### SAM-Based Open-Vocabulary Semantic Segmentation
-1. <span id = "2005">**[SAM]**</span> | **ICCV'23(Best Paper Honorable Mention)** | Segment Anything | [`[pdf]`](https://arxiv.org/abs/2304.02643) | [`[code]`](https://github.com/facebookresearch/segment-anything)
-2. <span id = "2005">**[Semantic-SAM]**</span> | **Arxiv'23.07** | Semantic-SAM: Segment and Recognize Anything at Any Granularity | [`[pdf]`]([https://arxiv.org/abs/2304.02643](https://arxiv.org/abs/2307.04767))
-3. <span id = "2005">**[SAM-CLIP]**</span> | **Arixv'23.10** | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding | [`[pdf]`](https://arxiv.org/abs/2310.15308)
-
 ### Others
 
 1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
-
-## Zero-shot Semantic Segmentation
-1. 
 
 
 ## Referring-Image-Segmentation
