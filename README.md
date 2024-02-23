@@ -10,6 +10,8 @@
   * [Weakly-supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
+
+* [Zero-shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation)
   
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation)
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
