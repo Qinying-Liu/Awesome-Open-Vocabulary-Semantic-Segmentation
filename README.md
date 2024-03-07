@@ -81,7 +81,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 20. <span id = "2005">**[TagAlign]**</span> | **Arixv'23.12** | TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification | [`[pdf]`](https://arxiv.org/abs/2312.14149) | [`[code]`](https://github.com/Qinying-Liu/TagAlign)
 21. <span id = "2005">**[S-Seg]**</span> | **Arixv'24.01** | Exploring Simple Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2401.12217) | [`[code]`](https://github.com/zlai0/S-Seg)
 22. <span id = "2005">**[CLIPSelf]**</span> | **ICLR'24(Spotlight)** | CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction | [`[pdf]`](https://arxiv.org/abs/2310.01403) | [`[code]`](https://github.com/wusize/CLIPSelf)
-23. <span id = "2005">**[Uni-OVSeg]**</span> | **Arixv'24.02** | Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision | [`[pdf]`](https://arxiv.org/abs/2402.08960) 
+23. <span id = "2005">**[Uni-OVSeg]**</span> | **Arixv'24.02** | Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision | [`[pdf]`](https://arxiv.org/abs/2402.08960)
+24. <span id = "2005">**[MGCA]**</span> | **Arixv'24.03** | Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision | [`[pdf]`](https://arxiv.org/pdf/2403.03707.pdf)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
