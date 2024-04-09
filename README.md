@@ -55,6 +55,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 25. <span id = "1003">**[SELF-SEG]**</span> | **Arixv'23.12** | Self-Guided Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.04539) 
 26. <span id = "1003">**[SCAN]**</span> | **Arixv'23.12** | Open-Vocabulary Segmentation with Semantic-Assisted Calibration | [`[pdf]`](https://arxiv.org/abs/2312.04089) | [`[code]`](https://github.com/workforai/SCAN)
 27. <span id = "1003">**[OpenSD]**</span> | **Arixv'23.12** | OpenSD: Unified Open-Vocabulary Segmentation and Detection | [`[pdf]`](https://arxiv.org/abs/2312.06703) | [`[code]`](https://github.com/strongwolf/OpenSD)
+28. <span id = "1003">**[RENOVATE]**</span> | **Arixv'24.03** | Renovating Names in Open-Vocabulary Segmentation Benchmarks | [`[pdf]`](https://arxiv.org/abs/2403.09593) 
+29. <span id = "1003">**[DreamCLIP]**</span> | **Arixv'24.03** | DreamLIP: Language-Image Pre-training with Long Captions | [`[pdf]`](https://arxiv.org/abs/2403.17007) | [`[code]`](https://github.com/zyf0619sjtu/DreamLIP)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [**text-supervised/language-supervised**] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
@@ -121,8 +123,9 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 4. <span id = "1004">**[PADing]**</span> | **CVPR'23** | Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.11087) | [`[code]`](https://github.com/heshuting555/PADing)
 5. <span id = "1005">**[DeOP]**</span> | **ICCV'23** | Open Vocabulary Semantic Segmentation with Decoupled One-Pass Network | [`[pdf]`](https://arxiv.org/abs/2304.01198) | [`[code]`](https://github.com/CongHan0808/DeOP)
 6. <span id = "1006">**[SPT]**</span> | **AAAI'24** | Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.12754) | [`[code]`](https://github.com/clearxu/SPT)
-7. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
-8. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
+7. <span id = "1006">**[Chen et al.]**</span> | **Arxiv'24.02** | Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2402.13697) 
+8. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
+9. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
 
 
 ## Referring Image Segmentation
