@@ -122,7 +122,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 5. <span id = "1005">**[DeOP]**</span> | **ICCV'23** | Open Vocabulary Semantic Segmentation with Decoupled One-Pass Network | [`[pdf]`](https://arxiv.org/abs/2304.01198) | [`[code]`](https://github.com/CongHan0808/DeOP)
 6. <span id = "1006">**[SPT]**</span> | **AAAI'24** | Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.12754) | [`[code]`](https://github.com/clearxu/SPT)
 7. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
-8. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.04** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
+8. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
 
 
 ## Referring Image Segmentation
