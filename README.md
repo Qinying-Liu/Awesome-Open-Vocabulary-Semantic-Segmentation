@@ -57,7 +57,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 27. <span id = "1003">**[OpenSD]**</span> | **Arixv'23.12** | OpenSD: Unified Open-Vocabulary Segmentation and Detection | [`[pdf]`](https://arxiv.org/abs/2312.06703) | [`[code]`](https://github.com/strongwolf/OpenSD)
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
-[text-supervised/language-supervised] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
+[**text-supervised/language-supervised**] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
 
 1. <span id = "2001">**[GroupViT]**</span> | **CVPR'22** | GroupViT: Semantic Segmentation Emerges from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2202.11094) | [`[code]`](https://github.com/NVlabs/GroupViT)
 2. <span id = "2002">**[ViL-Seg]**</span> | **ECCV'22** | Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding | [`[pdf]`](https://arxiv.org/abs/2207.08455)
@@ -82,7 +82,9 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 21. <span id = "2005">**[S-Seg]**</span> | **Arixv'24.01** | Exploring Simple Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2401.12217) | [`[code]`](https://github.com/zlai0/S-Seg)
 22. <span id = "2005">**[CLIPSelf]**</span> | **ICLR'24(Spotlight)** | CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction | [`[pdf]`](https://arxiv.org/abs/2310.01403) | [`[code]`](https://github.com/wusize/CLIPSelf)
 23. <span id = "2005">**[Uni-OVSeg]**</span> | **Arixv'24.02** | Open-Vocabulary Segmentation with Unpaired Mask-Text Supervision | [`[pdf]`](https://arxiv.org/abs/2402.08960)
-24. <span id = "2005">**[MGCA]**</span> | **Arixv'24.03** | Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision | [`[pdf]`](https://arxiv.org/pdf/2403.03707.pdf)
+24. <span id = "2005">**[MGCA]**</span> | **Arixv'24.03** | Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2403.03707)
+25. <span id = "2005">**[TTD]**</span> | **Arixv'24.04** | TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias | [`[pdf]`](https://arxiv.org/abs/2404.00384)  | [`[code]`](https://github.com/shjo-april/TTD)
+26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.04231)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
@@ -101,6 +103,10 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 11. <span id = "3001">**[CaR]**</span> | **Arxiv'23.12** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://torrvision.com/clip_as_rnn/)
 12. <span id = "3001">**[FOSSIL]**</span> | **WACV'24** | FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval | [`[pdf]`](https://openaccess.thecvf.com/content/WACV2024/html/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.html)
 13. <span id = "3001">**[TagCLIP]**</span> | **AAAI'24** | TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training | [`[pdf]`](https://arxiv.org/abs/2312.12828) | [`[code]`](https://github.com/linyq2117/TagCLIP)
+14. <span id = "3001">**[FreeSeg-Diff]**</span> | **Arxiv'24.03** | FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2403.20105) | [`[code]`](https://bcorrad.github.io/freesegdiff/)
+15. <span id = "3001">**[TAG]**</span> | **Arxiv'24.03** | TAG: Guidance-free Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.11197) | [`[code]`](https://github.com/Valkyrja3607/TAG)
+16. <span id = "3001">**[FreeSeg-Diff]**</span> | **Arxiv'24.04** | FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2404.00701)
+17. <span id = "3001">**[Wang et al.]**</span> | **CVPR'24** | Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.00262) | [`[code]`](https://github.com/072jiajia/image-text-co-decomposition)
 
 ### Others
 
@@ -115,6 +121,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 4. <span id = "1004">**[PADing]**</span> | **CVPR'23** | Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.11087) | [`[code]`](https://github.com/heshuting555/PADing)
 5. <span id = "1005">**[DeOP]**</span> | **ICCV'23** | Open Vocabulary Semantic Segmentation with Decoupled One-Pass Network | [`[pdf]`](https://arxiv.org/abs/2304.01198) | [`[code]`](https://github.com/CongHan0808/DeOP)
 6. <span id = "1006">**[SPT]**</span> | **AAAI'24** | Spectral Prompt Tuning: Unveiling Unseen Classes for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.12754) | [`[code]`](https://github.com/clearxu/SPT)
+7. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
+8. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.04** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
 
 
 ## Referring Image Segmentation
