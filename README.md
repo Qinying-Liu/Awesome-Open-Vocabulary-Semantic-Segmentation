@@ -90,7 +90,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
-The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase.
+The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion models) without an additional training phase. **Note that**, the large models have been already been trained with some datasets (e.g., image-caption datasets). 
 
 1. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Extract Free Dense Labels from CLIP | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
 2. <span id = "3001">**[ReCo]**</span> | **NeurIPS'22** | ReCo: Retrieve and Co-segment for Zero-shot Transfer | [`[pdf]`](https://arxiv.org/abs/2206.07045)  | [`[code]`](https://github.com/NoelShin/reco) 
