@@ -105,11 +105,12 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 11. <span id = "3001">**[TagCLIP]**</span> | **AAAI'24** | TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training | [`[pdf]`](https://arxiv.org/abs/2312.12828) | [`[code]`](https://github.com/linyq2117/TagCLIP)
 12. <span id = "3001">**[EmerDiff]**</span> | **ICLR'24** | EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2401.11739) | [`[code]`](https://github.com/linyq2117/TagCLIP) 
 13. <span id = "3001">**[FreeSeg-Diff]**</span> | **Arxiv'24.03** | FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2403.20105) | [`[code]`](https://bcorrad.github.io/freesegdiff/)
-14. <span id = "3001">**[TAG]**</span> | **Arxiv'24.03** | TAG: Guidance-free Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.11197) | [`[code]`](https://github.com/Valkyrja3607/TAG)
-15. <span id = "3001">**[FreeSeg-Diff]**</span> | **Arxiv'24.04** | FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2404.00701)
-16. <span id = "3001">**[PnP-OVSS]**</span> | **CVPR'24** | Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models | [`[pdf]`](https://arxiv.org/abs/2311.17095)  | [`[code]`](https://github.com/letitiabanana/PnP-OVSS)
-17. <span id = "3001">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
-18. <span id = "3001">**[Wang et al.]**</span> | **CVPR'24** | Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.00262) | [`[code]`](https://github.com/072jiajia/image-text-co-decomposition)
+14. <span id = "3001">**[MaskDiffusion]**</span> | **Arxiv'24.03** | MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.11194) | [`[code]`](https://github.com/Valkyrja3607/MaskDiffusion)
+15. <span id = "3001">**[TAG]**</span> | **Arxiv'24.03** | TAG: Guidance-free Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.11197) | [`[code]`](https://github.com/Valkyrja3607/TAG)
+16. <span id = "3001">**[FreeSeg-Diff]**</span> | **Arxiv'24.04** | FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2404.00701)
+17. <span id = "3001">**[PnP-OVSS]**</span> | **CVPR'24** | Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models | [`[pdf]`](https://arxiv.org/abs/2311.17095)  | [`[code]`](https://github.com/letitiabanana/PnP-OVSS)
+18. <span id = "3001">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
+19. <span id = "3001">**[Wang et al.]**</span> | **CVPR'24** | Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.00262) | [`[code]`](https://github.com/072jiajia/image-text-co-decomposition)
 
 ### Others
 
