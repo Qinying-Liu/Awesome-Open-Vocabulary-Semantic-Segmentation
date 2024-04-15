@@ -57,6 +57,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 28. <span id = "1003">**[DreamCLIP]**</span> | **Arixv'24.03** | DreamLIP: Language-Image Pre-training with Long Captions | [`[pdf]`](https://arxiv.org/abs/2403.17007) | [`[code]`](https://github.com/zyf0619sjtu/DreamLIP)
 29. <span id = "1003">**[CAT-Seg]**</span> | **CVPR'24** | CAT-Seg : Cost Aggregation for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2303.11797) | [`[code]`](https://github.com/KU-CVLAB/CAT-Seg)
 30. <span id = "1003">**[SED]**</span> | **CVPR'24** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537) | [`[code]`](https://github.com/xb534/SED)
+31. <span id = "1003">**[Xu et al.]**</span> | **CVPR'24** | Transferable and Principled Efficiency for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.07448) | [`[code]`]([https://github.com/xb534/SED](https://github.com/Xujxyang/OpenTrans))
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [**text-supervised/language-supervised**] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
@@ -111,6 +112,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 17. <span id = "3001">**[PnP-OVSS]**</span> | **CVPR'24** | Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models | [`[pdf]`](https://arxiv.org/abs/2311.17095)  | [`[code]`](https://github.com/letitiabanana/PnP-OVSS)
 18. <span id = "3001">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
 19. <span id = "3001">**[Wang et al.]**</span> | **CVPR'24** | Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.00262) | [`[code]`](https://github.com/072jiajia/image-text-co-decomposition)
+20. <span id = "3001">**[FreeDA]**</span> | **CVPR'24** | Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation| [`[pdf]`](https://arxiv.org/abs/2404.06542) | [`[code]`](https://aimagelab.github.io/freeda/)
 
 ### Others
 
