@@ -57,7 +57,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 28. <span id = "1003">**[DreamCLIP]**</span> | **Arixv'24.03** | DreamLIP: Language-Image Pre-training with Long Captions | [`[pdf]`](https://arxiv.org/abs/2403.17007) | [`[code]`](https://github.com/zyf0619sjtu/DreamLIP)
 29. <span id = "1003">**[CAT-Seg]**</span> | **CVPR'24** | CAT-Seg : Cost Aggregation for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2303.11797) | [`[code]`](https://github.com/KU-CVLAB/CAT-Seg)
 30. <span id = "1003">**[SED]**</span> | **CVPR'24** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537) | [`[code]`](https://github.com/xb534/SED)
-31. <span id = "1003">**[Xu et al.]**</span> | **CVPR'24** | Transferable and Principled Efficiency for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.07448) | [`[code]`]([https://github.com/xb534/SED](https://github.com/Xujxyang/OpenTrans))
+31. <span id = "1003">**[OpenTrans]**</span> | **CVPR'24** | Transferable and Principled Efficiency for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.07448) | [`[code]`](https://github.com/Xujxyang/OpenTrans))
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [**text-supervised/language-supervised**] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
