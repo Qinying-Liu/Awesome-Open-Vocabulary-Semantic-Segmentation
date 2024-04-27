@@ -146,10 +146,11 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 6. <span id = "4001">**[SEEM]**</span> | **ArXiv'23.04** | Segment Everything Everywhere All at Once | [`[pdf]`](https://arxiv.org/pdf/2304.06718.pdf) | [`[code]`](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
  ### Weakly-Supervised Referring Image Segmentation
-
- 1. <span id = "3001">**[Kim et al.]**</span> | **ICCV'23** | Shatter and Gather: Learning Referring Image Segmentation with Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.15512) | [`[code]`](https://github.com/kdwonn/SaG)
- 2. <span id = "3001">**[Liu et al.]**</span> | **ICCV'23** | Referring Image Segmentation Using Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.14575) | [`[code]`](https://github.com/fawnliu/TRIS)
- 
+ 1. <span id = "3001">**[Strudel et al.]**</span> | **ArXiv'22.05** | Weakly-supervised segmentation of referring expressions | [`[pdf]`](https://arxiv.org/pdf/2205.04725)
+ 2. <span id = "3001">**[Kim et al.]**</span> | **ICCV'23** | Shatter and Gather: Learning Referring Image Segmentation with Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.15512) | [`[code]`](https://github.com/kdwonn/SaG)
+ 3. <span id = "3001">**[TRIS]**</span> | **ICCV'23** | Referring Image Segmentation Using Text Supervision | [`[pdf]`](https://arxiv.org/abs/2308.14575) | [`[code]`](https://github.com/fawnliu/TRIS)
+ 4. <span id = "3001">**[Jungbeom Lee et al.]**</span> | **ICCV'23** | Weakly Supervised Referring Image Segmentation with Intra-Chunk and Inter-Chunk Consistency | [`[pdf]`](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Weakly_Supervised_Referring_Image_Segmentation_with_Intra-Chunk_and_Inter-Chunk_Consistency_ICCV_2023_paper.pdf) 
+ 5. <span id = "3001">**[PPT]**</span> | **CVPR'24** | Curriculum Point Prompting for Weakly-Supervised Referring Segmentation | [`[pdf]`](https://arxiv.org/pdf/2404.11998) 
 
 ## Open-Vocabulary Object Detection
 
