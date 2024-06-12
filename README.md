@@ -132,7 +132,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 7. <span id = "1006">**[Chen et al.]**</span> | **Arxiv'24.02** | Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2402.13697) 
 8. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
 9. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
-
+10. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
 
 ## Referring Image Segmentation
 
