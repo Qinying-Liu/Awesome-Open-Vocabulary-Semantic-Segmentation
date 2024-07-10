@@ -18,6 +18,7 @@
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
 * [Universal Semantic Segmentation](#Universal-Semantic-Segmentation)
+* [Other Related Work](#Other-Related-Work)
 * [Related Survey](#Related-Survey)
 
 <!-- vim-markdown-toc -->
@@ -175,12 +176,17 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/ucas-vg/Sambor)
 20. <span id = "3001">**[DVDet]**</span> | **ICLR'24** | LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors | [`[pdf]`](https://arxiv.org/pdf/2402.04630.pdf)
 
+
+
 ## Universal Semantic Segmentation
 
 1. <span id = "3001">**[Semantic-SAM]**</span> | **Arxiv'23.10** | Semantic-SAM: Segment and Recognize Anything at Any Granularity | [`[pdf]`](https://arxiv.org/pdf/2307.04767.pdf) | [`[code]`](https://github.com/UX-Decoder/Semantic-SAM)
 2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **Arxiv'24.01** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
 3. <span id = "3001">**[OMG-Seg]**</span> | **Arxiv'24.01** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 
+## Other-Related-Work
+
+1. <span id = "3001">**[DENOISER]**</span> | **Arxiv'24.04** | DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2404.14890) 
 
 
 ## Related Survey
