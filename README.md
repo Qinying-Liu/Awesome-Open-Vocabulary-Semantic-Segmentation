@@ -217,7 +217,12 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 11. <span id = "3001">**[RoboHop]**</span> | **ICRA'24** | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | [`[pdf]`](https://oravus.github.io/RoboHop/data/RoboHop_Garg2024_compressed_v3.pdf)
 12. <span id = "3001">**[Rein]**</span> | **CVPR'24** | Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2312.04265) | [`[code]`](https://github.com/w1oves/Rein)
 13. <span id = "3001">**[OVMR]**</span> | **CVPR'24** | OVMR: Open-Vocabulary Recognition with Multi-Modal References | [`[pdf]`](https://arxiv.org/pdf/2406.04675) | [`[code]`](https://github.com/Zehong-Ma/OVMR)
-14. <span id = "3001">**[PartCLIPSeg]**</span> | **rxiv'24.06** | Understanding Multi-Granularity for Open-Vocabulary Part Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.11384) | [`[code]`](https://github.com/kaist-cvml-lab/part-clipseg)
+14. <span id = "3001">**[PartCLIPSeg]**</span> | **Arxiv'24.06** | Understanding Multi-Granularity for Open-Vocabulary Part Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.11384) | [`[code]`](https://github.com/kaist-cvml-lab/part-clipseg)
+15. <span id = "3001">**[GBC]**</span> | **Arxiv'24.07** | Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions | [`[pdf]`](https://arxiv.org/pdf/2407.06723)
+16. <span id = "3001">**[TCC]**</span> | **Arxiv'24.07** | A Study of Test-time Contrastive Concepts for Open-world, Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.05061)
+17. <span id = "3001">**[OPS]**</span> | **ECCV'24** | Open Panoramic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.02685) | [`[code]`](https://github.com/JunweiZheng93/OPS)
+18. <span id = "3001">**[Yu et al.]**</span> | **Arxiv'24.07** | PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction | [`[pdf]`](https://arxiv.org/pdf/2407.01349)
+19. <span id = "3001">**[Oryon]**</span> | **CVPR'24(Highlight)** | Oryon: Open-Vocabulary Object 6D Pose Estimation | [`[pdf]`](https://arxiv.org/pdf/2312.00690) | [`[code]`](https://github.com/jcorsetti/oryon)
 
 
 
