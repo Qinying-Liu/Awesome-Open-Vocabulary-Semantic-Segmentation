@@ -59,6 +59,12 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 29. <span id = "1003">**[SED]**</span> | **CVPR'24** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537) | [`[code]`](https://github.com/xb534/SED)
 30. <span id = "1003">**[SCAN]**</span> | **CVPR'24** | Open-Vocabulary Segmentation with Semantic-Assisted Calibration | [`[pdf]`](https://arxiv.org/abs/2312.04089) | [`[code]`](https://github.com/workforai/SCAN)
 31. <span id = "1003">**[OpenTrans]**</span> | **CVPR'24** | Transferable and Principled Efficiency for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.07448) | [`[code]`](https://github.com/Xujxyang/OpenTrans))
+32. <span id = "1003">**[H-CLIP]**</span> | **Arixv'24.05** | Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.18840)
+33. <span id = "1003">**[OpenDAS]**</span> | **Arixv'24.05** | OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.20141)
+34. <span id = "1003">**[USE]**</span> | **CVPR'24** | USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf)
+35. <span id = "1003">**[EBSeg]**</span> | **CVPR'24** | Open-Vocabulary Semantic Segmentation with Image Embedding Balancing | [`[pdf]`](https://arxiv.org/pdf/2406.09829) | [`[code]`](https://github.com/slonetime/EBSeg))
+
+
 
 ### Weakly-Supervised Open-Vocabulary Semantic Segmentation
 [**text-supervised/language-supervised**] The model is trained on weakly supervised datasets with only image-level annotations/captions (e.g., CC12M dataset). 
@@ -117,6 +123,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 19. <span id = "3001">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/abs/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
 20. <span id = "3001">**[Wang et al.]**</span> | **CVPR'24** | Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.00262) | [`[code]`](https://github.com/072jiajia/image-text-co-decomposition)
 21. <span id = "3001">**[FreeDA]**</span> | **CVPR'24** | Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation| [`[pdf]`](https://arxiv.org/abs/2404.06542) | [`[code]`](https://aimagelab.github.io/freeda/)
+22. <span id = "3001">**[Yang et al.]**</span> | **CVPR'24** | Tuning-free Universally-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.14294)
   
 
 ### Others
@@ -136,6 +143,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 8. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
 9. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
 10. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
+11. <span id = "1006">**[SimZSS]**</span> | **Arxiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.16085) 
 
 ## Referring Image Segmentation
 
@@ -180,6 +188,11 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 21. <span id = "3001">**[DetCLIPv3]**</span> | **CVPR'24** | DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2404.09216)
 22. <span id = "3001">**[AggDet]**</span> | **Arxiv'24.04** | Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation | [`[pdf]`](https://arxiv.org/pdf/2404.08603)
 23. <span id = "3001">**[RALF]**</span> | **CVPR'24** | Retrieval-Augmented Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2404.05687) | [`[code]`](https://github.com/mlvlab/RALF)
+24. <span id = "3001">**[Chhipa et al.]**</span> | **Arxiv'24.06** | Investigating Robustness of Open-Vocabulary Foundation Object Detectors under Distribution Shifts | [`[pdf]`](https://arxiv.org/pdf/2405.14874)
+25. <span id = "3001">**[SHiNe]**</span> | **CVPR'24(Highlight)** | SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.10053) | [`[code]`](https://github.com/naver/shine)
+26. <span id = "3001">**[RTGen]**</span> | **Arxiv'24.06** | RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.19854) | [`[code]`](https://github.com/seermer/RTGen)
+27. <span id = "3001">**[LBP]**</span> | **CVPR'24** | Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2406.00510) 
+
 
 
 
@@ -201,6 +214,10 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 8. <span id = "3001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/pdf/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
 9. <span id = "3001">**[OVAM]**</span> | **Arxiv'24.03** | Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models | [`[pdf]`](https://arxiv.org/pdf/2403.14291)
 10. <span id = "3001">**[CLIP-VIS]**</span> | **Arxiv'24.06** | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | [`[pdf]`](https://arxiv.org/pdf/2403.12455)
+11. <span id = "3001">**[RoboHop]**</span> | **ICRA'24** | RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation | [`[pdf]`](https://oravus.github.io/RoboHop/data/RoboHop_Garg2024_compressed_v3.pdf)
+12. <span id = "3001">**[Rein]**</span> | **CVPR'24** | Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2312.04265) | [`[code]`](https://github.com/w1oves/Rein)
+13. <span id = "3001">**[OVMR]**</span> | **CVPR'24** | OVMR: Open-Vocabulary Recognition with Multi-Modal References | [`[pdf]`](https://arxiv.org/pdf/2406.04675) | [`[code]`](https://github.com/Zehong-Ma/OVMR)
+14. <span id = "3001">**[PartCLIPSeg]**</span> | **rxiv'24.06** | Understanding Multi-Granularity for Open-Vocabulary Part Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.11384) | [`[code]`](https://github.com/kaist-cvml-lab/part-clipseg)
 
 
 
