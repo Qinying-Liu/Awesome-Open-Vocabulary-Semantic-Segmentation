@@ -198,9 +198,9 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 
 ## Universal Semantic Segmentation
 
-1. <span id = "3001">**[Semantic-SAM]**</span> | **Arxiv'23.10** | Semantic-SAM: Segment and Recognize Anything at Any Granularity | [`[pdf]`](https://arxiv.org/pdf/2307.04767.pdf) | [`[code]`](https://github.com/UX-Decoder/Semantic-SAM)
-2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **Arxiv'24.01** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
-3. <span id = "3001">**[OMG-Seg]**</span> | **Arxiv'24.01** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
+1. <span id = "3001">**[Semantic-SAM]**</span> | **ECCV'24** | Semantic-SAM: Segment and Recognize Anything at Any Granularity | [`[pdf]`](https://arxiv.org/pdf/2307.04767.pdf) | [`[code]`](https://github.com/UX-Decoder/Semantic-SAM)
+2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **ECCV'24** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
+3. <span id = "3001">**[OMG-Seg]**</span> | **CVPR'24** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 
 ## Other-Related-Work
 
