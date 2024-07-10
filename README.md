@@ -89,6 +89,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 24. <span id = "2005">**[MGCA]**</span> | **Arixv'24.03** | Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2403.03707)
 25. <span id = "2005">**[TTD]**</span> | **Arixv'24.04** | TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias | [`[pdf]`](https://arxiv.org/abs/2404.00384)  | [`[code]`](https://github.com/shjo-april/TTD)
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.04231)
+27. <span id = "2005">**[LLM-Supervision]**</span> | **Arixv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision
+ | [`[pdf]`](https://arxiv.org/pdf/2404.00701)
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
@@ -175,6 +177,9 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 18. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
 19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/ucas-vg/Sambor)
 20. <span id = "3001">**[DVDet]**</span> | **ICLR'24** | LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors | [`[pdf]`](https://arxiv.org/pdf/2402.04630.pdf)
+21. <span id = "3001">**[DetCLIPv3]**</span> | **CVPR'24** | DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2404.09216)
+22. <span id = "3001">**[AggDet]**</span> | **Arxiv'24.04** | Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation | [`[pdf]`](https://arxiv.org/pdf/2404.08603)
+23. <span id = "3001">**[RALF]**</span> | **CVPR'24** | Retrieval-Augmented Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2404.05687) | [`[code]`](https://github.com/mlvlab/RALF)
 
 
 
@@ -186,7 +191,18 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 
 ## Other-Related-Work
 
-1. <span id = "3001">**[DENOISER]**</span> | **Arxiv'24.04** | DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2404.14890) 
+1. <span id = "3001">**[DENOISER]**</span> | **Arxiv'24.04** | DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2404.14890)
+2. <span id = "3001">**[O2V-mapping]**</span> | **Arxiv'24.04** | O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation | [`[pdf]`](https://arxiv.org/pdf/2404.06836)
+3. <span id = "3001">**[CMD-SE]**</span> | **CVPR'24** | Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection | [`[pdf]`](https://arxiv.org/pdf/2404.06194)
+4. <span id = "3001">**[FG-CLIP]**</span> | **CBMI'24** | Is CLIP the main roadblock for fine-grained open-world perception? | [`[pdf]`](https://arxiv.org/pdf/2404.03539) | [`[code]`](https://github.com/lorebianchi98/FG-CLIP)
+5. <span id = "3001">**[NegPrompt]**</span> | **CVPR'24** | Learning Transferable Negative Prompts for Out-of-Distribution Detection | [`[pdf]`](https://arxiv.org/pdf/2404.03248) | [`[code]`](https://github.com/mala-lab/negprompt)
+6. <span id = "3001">**[OVFoodSeg]**</span> | **CVPR'24** | OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation | [`[pdf]`](https://arxiv.org/pdf/2404.01409)
+7. <span id = "3001">**[Fed-MP]**</span> | **NAACL'24** | Open-Vocabulary Federated Learning with Multimodal Prototyping | [`[pdf]`](https://arxiv.org/pdf/2404.01232)
+8. <span id = "3001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/pdf/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
+9. <span id = "3001">**[OVAM]**</span> | **Arxiv'24.03** | Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models | [`[pdf]`](https://arxiv.org/pdf/2403.14291)
+10. <span id = "3001">**[CLIP-VIS]**</span> | **Arxiv'24.06** | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | [`[pdf]`](https://arxiv.org/pdf/2403.12455)
+
+
 
 
 ## Related Survey
