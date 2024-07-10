@@ -54,7 +54,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 24. <span id = "1003">**[SELF-SEG]**</span> | **Arixv'23.12** | Self-Guided Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2312.04539) 
 25. <span id = "1003">**[OpenSD]**</span> | **Arixv'23.12** | OpenSD: Unified Open-Vocabulary Segmentation and Detection | [`[pdf]`](https://arxiv.org/abs/2312.06703) | [`[code]`](https://github.com/strongwolf/OpenSD)
 26. <span id = "1003">**[RENOVATE]**</span> | **Arixv'24.03** | Renovating Names in Open-Vocabulary Segmentation Benchmarks | [`[pdf]`](https://arxiv.org/abs/2403.09593) 
-27. <span id = "1003">**[DreamCLIP]**</span> | **Arixv'24.03** | DreamLIP: Language-Image Pre-training with Long Captions | [`[pdf]`](https://arxiv.org/abs/2403.17007) | [`[code]`](https://github.com/zyf0619sjtu/DreamLIP)
+27. <span id = "1003">**[DreamCLIP]**</span> | **ECCV'24** | DreamLIP: Language-Image Pre-training with Long Captions | [`[pdf]`](https://arxiv.org/abs/2403.17007) | [`[code]`](https://github.com/zyf0619sjtu/DreamLIP)
 28. <span id = "1003">**[CAT-Seg]**</span> | **CVPR'24** | CAT-Seg : Cost Aggregation for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2303.11797) | [`[code]`](https://github.com/KU-CVLAB/CAT-Seg)
 29. <span id = "1003">**[SED]**</span> | **CVPR'24** | SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.15537) | [`[code]`](https://github.com/xb534/SED)
 30. <span id = "1003">**[SCAN]**</span> | **CVPR'24** | Open-Vocabulary Segmentation with Semantic-Assisted Calibration | [`[pdf]`](https://arxiv.org/abs/2312.04089) | [`[code]`](https://github.com/workforai/SCAN)
@@ -107,9 +107,9 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 3. <span id = "3001">**[CLIP Surgery]**</span> | **Arxiv'23.04** | CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/abs/2304.05653) | [`[code]`](https://github.com/xmed-lab/CLIP_Surgery)
 4. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23.06** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2306.09316)
 5. <span id = "3001">**[DiffSegmenter]**</span> | **Arxiv'23.09** | Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter | [`[pdf]`](https://arxiv.org/abs/2309.02773) | [`[code]`](https://github.com/VCG-team/DiffSegmenter)
-6. <span id = "3001">**[IPSeg]**</span> | **Arxiv'23.10** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
+6. <span id = "3001">**[IPSeg]**</span> | **IJCV'24** | Towards Training-free Open-world Segmentation via Image Prompting Foundation Models | [`[pdf]`](https://arxiv.org/abs/2310.10912)
 7. <span id = "3001">**[SCLIP]**</span> | **Arxiv'23.12** | SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/abs/2312.01597)
-8. <span id = "3001">**[GEM]**</span> | **Arxiv'23.12** | Grounding Everything: Emerging Localization Properties in Vision-Language Transformers | [`[pdf]`](https://arxiv.org/abs/2312.00878) | [`[code]`](https://github.com/WalBouss/GEM)
+8. <span id = "3001">**[GEM]**</span> | **CVPR'24** | Grounding Everything: Emerging Localization Properties in Vision-Language Transformers | [`[pdf]`](https://arxiv.org/abs/2312.00878) | [`[code]`](https://github.com/WalBouss/GEM)
 9. <span id = "3001">**[CLIP-DIY]**</span> | **WACV'24** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 10. <span id = "3001">**[FOSSIL]**</span> | **WACV'24** | FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval | [`[pdf]`](https://openaccess.thecvf.com/content/WACV2024/html/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.html)
 11. <span id = "3001">**[TagCLIP]**</span> | **AAAI'24** | TagCLIP: A Local-to-Global Framework to Enhance Open-VocabularyMulti-Label Classification of CLIP Without Training | [`[pdf]`](https://arxiv.org/abs/2312.12828) | [`[code]`](https://github.com/linyq2117/TagCLIP)
@@ -128,7 +128,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 ### Others
 
-1. <span id = "4001">**[Zhou et al.]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
+1. <span id = "4001">**[EntitySeg]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
 
 ## Zero-Shot Semantic Segmentation
 Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods split each dataset to seen classes and unseen classes.
@@ -176,11 +176,11 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 9. <span id = "3001">**[mm-ovod]**</span> | **ICML 2023** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2306.05493)  | [`[code]`](https://github.com/prannaykaul/mm-ovod)
 10. <span id = "3001">**[SGDN]**</span> | **Arxiv'23.07** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
 11. <span id = "3001">**[MMC-Det]**</span> | **Arxiv'23.08** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.15846) 
-12. <span id = "3001">**[IPL]**</span> | **Arxiv'23.08** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412)
+12. <span id = "3001">**[SAS-Det]**</span> | **CVPR'24** | Taming Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2308.06412) | [`[code]`](https://github.com/xiaofeng94/SAS-Det)
 13. <span id = "3001">**[DITO]**</span> | **Arxiv'23.09** | Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection | [`[pdf]`](https://arxiv.org/pdf/2310.00161v1.pdf) | [`[code]`](https://github.com/google-research/google-research/tree/master/fvlm/dito)
 14. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
 15. <span id = "3001">**[LP-OVOD]**</span> | **WACV'24** | LP-OVOD: Open-Vocabulary Object Detection by Linear Probing | [`[pdf]`](https://arxiv.org/abs/2310.17109) | [`[code]`](https://github.com/wysoczanska/clip-diy)
-16. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)
+16. <span id = "3001">**[DST-Det]**</span> | **Arxiv'23.10** | DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.01393)  | [`[code]`](https://github.com/xushilin1/dst-det)
 17. <span id = "3001">**[CoDet]**</span> | **NeurIPS'23** | CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2310.16667) | [`[code]`](https://github.com/CVMI-Lab/CoDet)
 18. <span id = "3001">**[PLAC]**</span> | **Arxiv'23.12** | Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2312.02103.pdf)
 19. <span id = "3001">**[Sambor]**</span> | **Arxiv'23.12** | Boosting Segment Anything Model Towards Open-Vocabulary Learning | [`[pdf]`](https://arxiv.org/pdf/2312.03628.pdf) | [`[code]`](https://github.com/ucas-vg/Sambor)
