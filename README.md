@@ -191,7 +191,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 24. <span id = "3001">**[Chhipa et al.]**</span> | **Arxiv'24.06** | Investigating Robustness of Open-Vocabulary Foundation Object Detectors under Distribution Shifts | [`[pdf]`](https://arxiv.org/pdf/2405.14874)
 25. <span id = "3001">**[SHiNe]**</span> | **CVPR'24(Highlight)** | SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.10053) | [`[code]`](https://github.com/naver/shine)
 26. <span id = "3001">**[RTGen]**</span> | **Arxiv'24.06** | RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.19854) | [`[code]`](https://github.com/seermer/RTGen)
-27. <span id = "3001">**[LBP]**</span> | **CVPR'24** | Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2406.00510) 
+27. <span id = "3001">**[LBP]**</span> | **CVPR'24** | Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2406.00510)
+28. <span id = "3001">**[YOLO-World]**</span> | **CVPR'24** | Real-Time Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2401.17270) | [`[code]`](https://github.com/AILab-CVC/YOLO-World)
 
 
 
