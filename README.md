@@ -125,6 +125,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 21. <span id = "3001">**[FreeDA]**</span> | **CVPR'24** | Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation| [`[pdf]`](https://arxiv.org/abs/2404.06542) | [`[code]`](https://aimagelab.github.io/freeda/)
 22. <span id = "3001">**[Yang et al.]**</span> | **CVPR'24** | Tuning-free Universally-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.14294)
 23. <span id = "3001">**[CLIPTrase]**</span> | **ECCV'24** | Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.08268) | [`[code]`](https://github.com/leaves162/CLIPtrase)
+
   
 
 ### Others
@@ -144,7 +145,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 8. <span id = "1006">**[LDVC]**</span> | **Arxiv'24.03** | Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.08426) 
 9. <span id = "1006">**[OTSeg]**</span> | **Arxiv'24.03** | OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2403.14183) 
 10. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
-11. <span id = "1006">**[SimZSS]**</span> | **Arxiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.16085) 
+11. <span id = "1006">**[SimZSS]**</span> | **Arxiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://arxiv.org/pdf/2406.16085)
+12. <span id = "1006">**[SimZSS]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://arxiv.org/pdf/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
 
 ## Referring Image Segmentation
 
@@ -194,6 +196,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 26. <span id = "3001">**[RTGen]**</span> | **Arxiv'24.06** | RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.19854) | [`[code]`](https://github.com/seermer/RTGen)
 27. <span id = "3001">**[LBP]**</span> | **CVPR'24** | Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2406.00510)
 28. <span id = "3001">**[YOLO-World]**</span> | **CVPR'24** | Real-Time Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2401.17270) | [`[code]`](https://github.com/AILab-CVC/YOLO-World)
+29. <span id = "3001">**[OVLW-DETR]**</span> | **Arxiv'24.07** | OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer | [`[pdf]`](https://arxiv.org/pdf/2407.10655) | [`[code]`](https://github.com/Atten4Vis/LWDETR)
+30. <span id = "3001">**[LaMI-DETR]**</span> | **ECCV'24** | LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction | [`[pdf]`](https://www.arxiv.org/pdf/2407.11335) | [`[code]`](https://github.com/eternaldolphin/LaMI-DETR)
 
 
 
@@ -225,6 +229,11 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 17. <span id = "3001">**[OPS]**</span> | **ECCV'24** | Open Panoramic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.02685) | [`[code]`](https://github.com/JunweiZheng93/OPS)
 18. <span id = "3001">**[Yu et al.]**</span> | **Arxiv'24.07** | PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction | [`[pdf]`](https://arxiv.org/pdf/2407.01349)
 19. <span id = "3001">**[Oryon]**</span> | **CVPR'24(Highlight)** | Oryon: Open-Vocabulary Object 6D Pose Estimation | [`[pdf]`](https://arxiv.org/pdf/2312.00690) | [`[code]`](https://github.com/jcorsetti/oryon)
+20. <span id = "3001">**[GLIS]**</span> | **ECCV'24** | Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection | [`[pdf]`](https://arxiv.org/pdf/2407.08931) | [`[code]`](https://github.com/GradiusTwinbee/GLIS)
+21. <span id = "3001">**[OVExp]**</span> | **Arxiv'24.07** | OVExp: Open Vocabulary Exploration for Object-Oriented Navigation | [`[pdf]`](https://arxiv.org/pdf/2407.09016) | [`[code]`](https://github.com/OpenRobotLab/OVExp)
+22. <span id = "3001">**[OV-MLVC]**</span> | **Arxiv'24.07** | Open Vocabulary Multi-Label Video Classification | [`[pdf]`](https://arxiv.org/pdf/2407.09073v1)
+23. <span id = "3001">**[DART]**</span> | **Arxiv'24.07** | An automated end-to-end object detection pipeline with data Diversification, open-vocabulary bounding box Annotation, pseudo-label Review, and model Training | [`[pdf]`](https://arxiv.org/pdf/2407.09174) | [`[code]`](https://github.com/chen-xin-94/DART)
+24. <span id = "3001">**[NOVIC]**</span> | **Arxiv'24.07** | Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion | [`[pdf]`](https://www.arxiv.org/pdf/2407.11211)
 
 
 
