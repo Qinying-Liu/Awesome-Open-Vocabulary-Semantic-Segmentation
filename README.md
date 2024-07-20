@@ -208,7 +208,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **ECCV'24** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
 3. <span id = "3001">**[OMG-Seg]**</span> | **CVPR'24** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 
-## Other-Related-Work
+## Other Related Work
 
 1. <span id = "3001">**[DENOISER]**</span> | **Arxiv'24.04** | DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2404.14890)
 2. <span id = "3001">**[O2V-mapping]**</span> | **Arxiv'24.04** | O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation | [`[pdf]`](https://arxiv.org/pdf/2404.06836)
