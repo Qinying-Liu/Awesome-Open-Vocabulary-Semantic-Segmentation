@@ -125,6 +125,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 21. <span id = "3001">**[FreeDA]**</span> | **CVPR'24** | Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation| [`[pdf]`](https://arxiv.org/abs/2404.06542) | [`[code]`](https://aimagelab.github.io/freeda/)
 22. <span id = "3001">**[Yang et al.]**</span> | **CVPR'24** | Tuning-free Universally-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.14294)
 23. <span id = "3001">**[CLIPTrase]**</span> | **ECCV'24** | Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.08268) | [`[code]`](https://github.com/leaves162/CLIPtrase)
+24. <span id = "3001">**[ClearCLIP]**</span> | **ECCV'24** | ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/pdf/2407.12442) | [`[code]`](https://github.com/mc-lan/ClearCLIP)
 
   
 
@@ -234,6 +235,14 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 22. <span id = "3001">**[OV-MLVC]**</span> | **Arxiv'24.07** | Open Vocabulary Multi-Label Video Classification | [`[pdf]`](https://arxiv.org/pdf/2407.09073v1)
 23. <span id = "3001">**[DART]**</span> | **Arxiv'24.07** | An automated end-to-end object detection pipeline with data Diversification, open-vocabulary bounding box Annotation, pseudo-label Review, and model Training | [`[pdf]`](https://arxiv.org/pdf/2407.09174) | [`[code]`](https://github.com/chen-xin-94/DART)
 24. <span id = "3001">**[NOVIC]**</span> | **Arxiv'24.07** | Unconstrained Open Vocabulary Image Classification: Zero-Shot Transfer from Text to Image via CLIP Inversion | [`[pdf]`](https://www.arxiv.org/pdf/2407.11211)
+25. <span id = "3001">**[CerberusDet]**</span> | **Arxiv'24.07** | CerberusDet: Unified Multi-Task Object Detection | [`[pdf]`](https://arxiv.org/pdf/2407.12632)
+26. <span id = "3001">**[GGSD]**</span> | **Arxiv'24.07** | Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation | [`[pdf]`](https://arxiv.org/pdf/2407.13362) | [`[code]`](https://github.com/Wang-pengfei/GGSD)
+27. <span id = "3001">**[Diff2Scene]**</span> | **ECCV'24** | Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models | [`[pdf]`](https://arxiv.org/pdf/2407.13642)
+28. <span id = "3001">**[SegPoint]**</span> | **ECCV'24** | SegPoint: Segment Any Point Cloud via Large Language Model | [`[pdf]`](https://arxiv.org/pdf/2407.13761) | [`[code]`](https://heshuting555.github.io/SegPoint/)
+29. <span id = "3001">**[LangOcc]**</span> | **Arxiv'24.07** | LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering | [`[pdf]`](https://arxiv.org/pdf/2407.17310)
+30. <span id = "3001">**[OVR]**</span> | **Arxiv'24.07** | A Dataset for Open Vocabulary Temporal Repetition Counting in Videos | [`[pdf]`](https://arxiv.org/pdf/2407.17085) | [`[code]`](https://sites.google.com/view/openvocabreps/)
+31. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.07** | SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.16682) | [`[code]`](https://github.com/ucas-vg/SAM-CP)
+
 
 
 
