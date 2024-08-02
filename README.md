@@ -63,6 +63,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 33. <span id = "1003">**[OpenDAS]**</span> | **Arixv'24.05** | OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.20141)
 34. <span id = "1003">**[USE]**</span> | **CVPR'24** | USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf)
 35. <span id = "1003">**[EBSeg]**</span> | **CVPR'24** | Open-Vocabulary Semantic Segmentation with Image Embedding Balancing | [`[pdf]`](https://arxiv.org/pdf/2406.09829) | [`[code]`](https://github.com/slonetime/EBSeg))
+36. <span id = "1003">**[MAFT+]**</span> | **ECCV'24** | Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.00744) | [`[code]`](https://github.com/jiaosiyu1999/MAFT-Plus.git))
 
 
 
@@ -197,8 +198,10 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 26. <span id = "3001">**[RTGen]**</span> | **Arxiv'24.06** | RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2405.19854) | [`[code]`](https://github.com/seermer/RTGen)
 27. <span id = "3001">**[LBP]**</span> | **CVPR'24** | Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2406.00510)
 28. <span id = "3001">**[YOLO-World]**</span> | **CVPR'24** | Real-Time Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2401.17270) | [`[code]`](https://github.com/AILab-CVC/YOLO-World)
-29. <span id = "3001">**[OVLW-DETR]**</span> | **Arxiv'24.07** | OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer | [`[pdf]`](https://arxiv.org/pdf/2407.10655) | [`[code]`](https://github.com/Atten4Vis/LWDETR)
-30. <span id = "3001">**[LaMI-DETR]**</span> | **ECCV'24** | LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction | [`[pdf]`](https://www.arxiv.org/pdf/2407.11335) | [`[code]`](https://github.com/eternaldolphin/LaMI-DETR)
+29. <span id = "3001">**[OV-DINO]**</span> | **Arxiv'24.07** | Unified Open-Vocabulary Detection with Language-Aware Selective Fusion | [`[pdf]`](https://arxiv.org/pdf/2407.07844) | [`[code]`](https://github.com/Atten4Vis/LWDETR)
+30. <span id = "3001">**[OVLW-DETR]**</span> | **Arxiv'24.07** | OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer | [`[pdf]`](https://arxiv.org/pdf/2407.10655) | [`[code]`](https://github.com/wanghao9610/OV-DINO)
+31. <span id = "3001">**[LaMI-DETR]**</span> | **ECCV'24** | LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction | [`[pdf]`](https://arxiv.org/pdf/2407.11335) | [`[code]`](https://github.com/eternaldolphin/LaMI-DETR)
+32. <span id = "3001">**[MarvelOVD]**</span> | **ECCV'24** | MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2407.21465) | [`[code]`](https://github.com/wkfdb/MarvelOVD)
 
 
 
@@ -242,6 +245,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 29. <span id = "3001">**[LangOcc]**</span> | **Arxiv'24.07** | LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering | [`[pdf]`](https://arxiv.org/pdf/2407.17310)
 30. <span id = "3001">**[OVR]**</span> | **Arxiv'24.07** | A Dataset for Open Vocabulary Temporal Repetition Counting in Videos | [`[pdf]`](https://arxiv.org/pdf/2407.17085) | [`[code]`](https://sites.google.com/view/openvocabreps/)
 31. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.07** | SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.16682) | [`[code]`](https://github.com/ucas-vg/SAM-CP)
+32. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721) | [`[code]`](https://github.com/ruohaoguo/ovavss)
 
 
 
