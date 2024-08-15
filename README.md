@@ -99,7 +99,6 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.04231)
 27. <span id = "2005">**[LLM-Supervision]**</span> | **Arixv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://arxiv.org/pdf/2404.00701)
 28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883)
-29. <span id = "2005">**[LaVG]**</span> | **ECCV'24** | In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04961)
 
 
 
@@ -131,6 +130,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 23. <span id = "3001">**[CLIPTrase]**</span> | **ECCV'24** | Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.08268) | [`[code]`](https://github.com/leaves162/CLIPtrase)
 24. <span id = "3001">**[ClearCLIP]**</span> | **ECCV'24** | ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/pdf/2407.12442) | [`[code]`](https://github.com/mc-lan/ClearCLIP)
 25. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883)
+26. <span id = "2005">**[LaVG]**</span> | **ECCV'24** | In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04961)
 
   
 
