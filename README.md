@@ -64,6 +64,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 34. <span id = "1003">**[USE]**</span> | **CVPR'24** | USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf)
 35. <span id = "1003">**[EBSeg]**</span> | **CVPR'24** | Open-Vocabulary Semantic Segmentation with Image Embedding Balancing | [`[pdf]`](https://arxiv.org/pdf/2406.09829) | [`[code]`](https://github.com/slonetime/EBSeg))
 36. <span id = "1003">**[MAFT+]**</span> | **ECCV'24** | Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.00744) | [`[code]`](https://github.com/jiaosiyu1999/MAFT-Plus.git))
+37. <span id = "1003">**[R-Adapter]**</span> | **ECCV'24** | Efficient and Versatile Robust Fine-Tuning of Zero-shot Models | [`[pdf]`](https://arxiv.org/pdf/2408.05749) | [`[code]`](https://cvlab.postech.ac.kr/research/R-Adapter))
 
 
 
@@ -96,8 +97,10 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 24. <span id = "2005">**[MGCA]**</span> | **Arixv'24.03** | Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision | [`[pdf]`](https://arxiv.org/abs/2403.03707)
 25. <span id = "2005">**[TTD]**</span> | **Arixv'24.04** | TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias | [`[pdf]`](https://arxiv.org/abs/2404.00384)  | [`[code]`](https://github.com/shjo-april/TTD)
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.04231)
-27. <span id = "2005">**[LLM-Supervision]**</span> | **Arixv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision
- | [`[pdf]`](https://arxiv.org/pdf/2404.00701)
+27. <span id = "2005">**[LLM-Supervision]**</span> | **Arixv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://arxiv.org/pdf/2404.00701)
+28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883)
+29. <span id = "2005">**[LaVG]**</span> | **ECCV'24** | In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04961)
+
 
 
 ### Training-Free Open-Vocabulary Semantic Segmentation
@@ -127,6 +130,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 22. <span id = "3001">**[Yang et al.]**</span> | **CVPR'24** | Tuning-free Universally-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2405.14294)
 23. <span id = "3001">**[CLIPTrase]**</span> | **ECCV'24** | Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.08268) | [`[code]`](https://github.com/leaves162/CLIPtrase)
 24. <span id = "3001">**[ClearCLIP]**</span> | **ECCV'24** | ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/pdf/2407.12442) | [`[code]`](https://github.com/mc-lan/ClearCLIP)
+25. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883)
 
   
 
@@ -246,6 +250,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 30. <span id = "3001">**[OVR]**</span> | **Arxiv'24.07** | A Dataset for Open Vocabulary Temporal Repetition Counting in Videos | [`[pdf]`](https://arxiv.org/pdf/2407.17085) | [`[code]`](https://sites.google.com/view/openvocabreps/)
 31. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.07** | SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.16682) | [`[code]`](https://github.com/ucas-vg/SAM-CP)
 32. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721) | [`[code]`](https://github.com/ruohaoguo/ovavss)
+33. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.08** | Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space | [`[pdf]`](https://arxiv.org/pdf/2408.07416) | [`[code]`](https://github.com/hyunji12/Open3DRF/tree/main)
 
 
 
