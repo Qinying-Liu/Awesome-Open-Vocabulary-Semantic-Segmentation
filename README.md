@@ -250,7 +250,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 30. <span id = "3001">**[OVR]**</span> | **Arxiv'24.07** | A Dataset for Open Vocabulary Temporal Repetition Counting in Videos | [`[pdf]`](https://arxiv.org/pdf/2407.17085) | [`[code]`](https://sites.google.com/view/openvocabreps/)
 31. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.07** | SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.16682) | [`[code]`](https://github.com/ucas-vg/SAM-CP)
 32. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721) | [`[code]`](https://github.com/ruohaoguo/ovavss)
-33. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.08** | Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space | [`[pdf]`](https://arxiv.org/pdf/2408.07416) | [`[code]`](https://github.com/hyunji12/Open3DRF/tree/main)
+33. <span id = "3001">**[Open3DRF]**</span> | **Arxiv'24.08** | Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space | [`[pdf]`](https://arxiv.org/pdf/2408.07416) | [`[code]`](https://github.com/hyunji12/Open3DRF/tree/main)
 
 
 
