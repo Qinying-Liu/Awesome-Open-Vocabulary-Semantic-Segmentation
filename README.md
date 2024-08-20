@@ -5,19 +5,19 @@
 ## Contents
 <!-- vim-markdown-toc GitLab -->
 
-* [Open-Vocabulary Semantic Segmentation](#Open-Vocabulary-Semantic-Segmentation)(mainly updated by [@liuqinying](https://github.com/Qinying-Liu))
+* [Open-Vocabulary Semantic Segmentation](#Open-Vocabulary-Semantic-Segmentation) (mainly updated by [@tbh3223](https://github.com/tbh3223))
   * [Fully-supervised Methods](#Fully-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Weakly-supervised Methods](#Weakly-Supervised-Open-Vocabulary-Semantic-Segmentation)
   * [Training-free Methods](#Training-Free-Open-Vocabulary-Semantic-Segmentation)
   * [Others](#Others)
 
-* [Zero-shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation) (mainly updated by [@liuqinying](https://github.com/Qinying-Liu))
+* [Zero-shot Semantic Segmentation](#Zero-Shot-Semantic-Segmentation) (mainly updated by [@tbh3223](https://github.com/tbh3223))
   
 * [Referring-Image-Segmentation](#Referring-Image-Segmentation) (mainly updated by [@ghost-000](https://github.com/ghost-000))
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
-* [Universal Semantic Segmentation](#Universal-Semantic-Segmentation)
+* [Universal Semantic Segmentation](#Universal-Semantic-Segmentation)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
 * [Other Related Work](#Other-Related-Work)
 * [Related Survey](#Related-Survey)
 
