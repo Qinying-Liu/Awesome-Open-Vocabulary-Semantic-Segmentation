@@ -266,5 +266,5 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 
 ## Feedback
 
-If you have any suggestions or find missing papers, please don't hesitate to contact me via [lydyc@mail.ustc.edu.cn](mailto:lydyc@mail.ustc.edu.cn).
+If you have any suggestions or find missing papers, please don't hesitate to contact me via [tbh3223@mail.ustc.edu.cn](mailto:tbh3223@mail.ustc.edu.cn) or [lydyc@mail.ustc.edu.cn](mailto:lydyc@mail.ustc.edu.cn).
 
