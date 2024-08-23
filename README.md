@@ -98,7 +98,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 25. <span id = "2005">**[TTD]**</span> | **Arixv'24.04** | TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias | [`[pdf]`](https://arxiv.org/abs/2404.00384)  | [`[code]`](https://github.com/shjo-april/TTD)
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2404.04231)
 27. <span id = "2005">**[LLM-Supervision]**</span> | **Arixv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://arxiv.org/pdf/2404.00701)
-28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883)
+28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
 
 
 
