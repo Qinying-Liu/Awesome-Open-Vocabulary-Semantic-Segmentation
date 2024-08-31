@@ -65,6 +65,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 35. <span id = "1003">**[EBSeg]**</span> | **CVPR'24** | Open-Vocabulary Semantic Segmentation with Image Embedding Balancing | [`[pdf]`](https://arxiv.org/pdf/2406.09829) | [`[code]`](https://github.com/slonetime/EBSeg))
 36. <span id = "1003">**[MAFT+]**</span> | **ECCV'24** | Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.00744) | [`[code]`](https://github.com/jiaosiyu1999/MAFT-Plus.git))
 37. <span id = "1003">**[R-Adapter]**</span> | **ECCV'24** | Efficient and Versatile Robust Fine-Tuning of Zero-shot Models | [`[pdf]`](https://arxiv.org/pdf/2408.05749) | [`[code]`](https://cvlab.postech.ac.kr/research/R-Adapter))
+38. <span id = "1003">**[MROVSeg]**</span> | **Arixv'24.08** | MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.14776) 
 
 
 
@@ -251,6 +252,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 31. <span id = "3001">**[SAM-CP]**</span> | **Arxiv'24.07** | SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.16682) | [`[code]`](https://github.com/ucas-vg/SAM-CP)
 32. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721) | [`[code]`](https://github.com/ruohaoguo/ovavss)
 33. <span id = "3001">**[Open3DRF]**</span> | **Arxiv'24.08** | Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space | [`[pdf]`](https://arxiv.org/pdf/2408.07416) | [`[code]`](https://github.com/hyunji12/Open3DRF/tree/main)
+34. <span id = "3001">**[OVA-DETR]**</span> | **Arxiv'24.08** | OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion | [`[pdf]`](https://www.arxiv.org/pdf/2408.12246) | [`[code]`](https://github.com/GT-Wei/OVA-DETR)
 
 
 
