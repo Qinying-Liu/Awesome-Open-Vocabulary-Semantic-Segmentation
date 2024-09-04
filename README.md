@@ -253,6 +253,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 32. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721) | [`[code]`](https://github.com/ruohaoguo/ovavss)
 33. <span id = "3001">**[Open3DRF]**</span> | **Arxiv'24.08** | Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space | [`[pdf]`](https://arxiv.org/pdf/2408.07416) | [`[code]`](https://github.com/hyunji12/Open3DRF/tree/main)
 34. <span id = "3001">**[OVA-DETR]**</span> | **Arxiv'24.08** | OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion | [`[pdf]`](https://www.arxiv.org/pdf/2408.12246) | [`[code]`](https://github.com/GT-Wei/OVA-DETR)
+35. <span id = "3001">**[OVAL]**</span> | **Arxiv'24.08** | Open-vocabulary Temporal Action Localization using VLMs | [`[pdf]`](https://arxiv.org/pdf/2408.17422) | [`[code]`](https://microsoft.github.io/VLM-Video-Action-Localization/)
+36. <span id = "3001">**[EMPOWER]**</span> | **IROS'24** | EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution | [`[pdf]`](https://arxiv.org/pdf/2408.17379) | [`[code]`](https://lab-rococo-sapienza.github.io/empower/)
 
 
 
