@@ -65,7 +65,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 35. <span id = "1003">**[EBSeg]**</span> | **CVPR'24** | Open-Vocabulary Semantic Segmentation with Image Embedding Balancing | [`[pdf]`](https://arxiv.org/pdf/2406.09829) | [`[code]`](https://github.com/slonetime/EBSeg))
 36. <span id = "1003">**[MAFT+]**</span> | **ECCV'24** | Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.00744) | [`[code]`](https://github.com/jiaosiyu1999/MAFT-Plus.git))
 37. <span id = "1003">**[R-Adapter]**</span> | **ECCV'24** | Efficient and Versatile Robust Fine-Tuning of Zero-shot Models | [`[pdf]`](https://arxiv.org/pdf/2408.05749) | [`[code]`](https://cvlab.postech.ac.kr/research/R-Adapter))
-38. <span id = "1003">**[MROVSeg]**</span> | **Arixv'24.08** | MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.14776) 
+38. <span id = "1003">**[MROVSeg]**</span> | **Arixv'24.08** | MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.14776)
+39. <span id = "1003">**[FrozenSeg]**</span> | **Arixv'24.09** | FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.03525) | [`[code]`](https://github.com/chenxi52/FrozenSeg)
 
 
 
