@@ -133,6 +133,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 24. <span id = "3001">**[ClearCLIP]**</span> | **ECCV'24** | ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference | [`[pdf]`](https://arxiv.org/pdf/2407.12442) | [`[code]`](https://github.com/mc-lan/ClearCLIP)
 25. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
 26. <span id = "2005">**[LaVG]**</span> | **ECCV'24** | In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04961) | [`[code]`](https://github.com/dahyun-kang/lavg)
+27. <span id = "2005">**[ITACLIP]**</span> | **Arxiv'24.11** | ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements | [`[pdf]`](https://arxiv.org/pdf/2411.12044) | [`[code]`](https://github.com/m-arda-aydn/ITACLIP)
 
   
 
