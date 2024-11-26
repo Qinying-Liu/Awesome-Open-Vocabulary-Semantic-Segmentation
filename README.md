@@ -276,8 +276,8 @@ Hierarchy | [`[pdf]`](https://arxiv.org/pdf/2410.20371)
 41. <span id = "3001">**[OpenMixer]**</span> | **WACV'25** | Exploiting VLM Localizability and Semantics for Open Vocabulary Action | [`[pdf]`](https://arxiv.org/pdf/2411.10922) | [`[code]`](https://github.com/Cogito2012/OpenMixer)
 42. <span id = "3001">**[Octree-Graph]**</span> | **Arxiv'24.11** | Open-Vocabulary Octree-Graph for 3D Scene Understanding Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.16253) 
 43. <span id = "3001">**[Fun3DU]**</span> | **Arxiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://arxiv.org/pdf/2411.16310)
-44. <span id = "3001">**[Fun3DU]**</span> | ** ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721)
-45. <span id = "3001">**[MASA]**</span> | ** CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://arxiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
+44. <span id = "3001">**[Fun3DU]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721)
+45. <span id = "3001">**[MASA]**</span> | **CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://arxiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
 
 
 
