@@ -17,8 +17,8 @@
   * [Fully-Supervised Methods](#Fully-Supervised-Referring-Image-Segmentation)
   * [Weakly-Supervised Methods](#Weakly-Supervised-Referring-Image-Segmentation)
 * [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
-* [Universal Semantic Segmentation](#Universal-Semantic-Segmentation)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
-* [Other Related Work](#Other-Related-Work)
+* [Universal Segmentation and Related Work](#Universal-Semantic-Segmentation)  (mainly updated by [@tbh3223](https://github.com/tbh3223))
+* [Other Open-Vocabulary Related Work](#Other-Related-Work)
 * [Related Survey](#Related-Survey)
 
 <!-- vim-markdown-toc -->
@@ -224,13 +224,14 @@ Hierarchy | [`[pdf]`](https://arxiv.org/pdf/2410.20371)
 
 
 
-## Universal Semantic Segmentation
+## Universal Segmentation and Related Work
 
 1. <span id = "3001">**[Semantic-SAM]**</span> | **ECCV'24** | Semantic-SAM: Segment and Recognize Anything at Any Granularity | [`[pdf]`](https://arxiv.org/pdf/2307.04767.pdf) | [`[code]`](https://github.com/UX-Decoder/Semantic-SAM)
 2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **ECCV'24** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
 3. <span id = "3001">**[OMG-Seg]**</span> | **CVPR'24** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
+4. <span id = "3001">**[OMG-LLaVA]**</span> | **NeurIPS'24** | OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding | [`[pdf]`](https://arxiv.org/pdf/2406.19389) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 
-## Other Related Work
+## Other Open-Vocabulary Related Work
 
 1. <span id = "3001">**[DENOISER]**</span> | **Arxiv'24.04** | DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2404.14890)
 2. <span id = "3001">**[O2V-mapping]**</span> | **Arxiv'24.04** | O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation | [`[pdf]`](https://arxiv.org/pdf/2404.06836)
@@ -274,7 +275,9 @@ Hierarchy | [`[pdf]`](https://arxiv.org/pdf/2410.20371)
 40. <span id = "3001">**[OVT-B-Dataset]**</span> | **NeurIPS'24** | OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking | [`[pdf]`](https://arxiv.org/pdf/2410.17534) | [`[code]`](https://github.com/Coo1Sea/OVT-B-Dataset)
 41. <span id = "3001">**[OpenMixer]**</span> | **WACV'25** | Exploiting VLM Localizability and Semantics for Open Vocabulary Action | [`[pdf]`](https://arxiv.org/pdf/2411.10922) | [`[code]`](https://github.com/Cogito2012/OpenMixer)
 42. <span id = "3001">**[Octree-Graph]**</span> | **Arxiv'24.11** | Open-Vocabulary Octree-Graph for 3D Scene Understanding Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.16253) 
-43. <span id = "3001">**[Fun3DU]**</span> | **Arxiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://arxiv.org/pdf/2411.16310) 
+43. <span id = "3001">**[Fun3DU]**</span> | **Arxiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://arxiv.org/pdf/2411.16310)
+44. <span id = "3001">**[Fun3DU]**</span> | ** ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2407.21721)
+45. <span id = "3001">**[MASA]**</span> | ** CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://arxiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
 
 
 
