@@ -69,6 +69,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 39. <span id = "1003">**[FrozenSeg]**</span> | **Arixv'24.09** | FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.03525) | [`[code]`](https://github.com/chenxi52/FrozenSeg)
 40. <span id = "1003">**[GBA]**</span> | **Arixv'24.09** | Generalization Boosted Adapter for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.08468)
 41. <span id = "1003">**[SMART]**</span> | **Arixv'24.09** | Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.16278)
+42. <span id = "1003">**[ESC-Net]**</span> | **Arixv'24.11** | Effective SAM Combination for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.14723)
 
 
 
