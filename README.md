@@ -67,6 +67,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 37. <span id = "1003">**[R-Adapter]**</span> | **ECCV'24** | Efficient and Versatile Robust Fine-Tuning of Zero-shot Models | [`[pdf]`](https://arxiv.org/pdf/2408.05749) | [`[code]`](https://cvlab.postech.ac.kr/research/R-Adapter))
 38. <span id = "1003">**[MROVSeg]**</span> | **Arixv'24.08** | MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.14776)
 39. <span id = "1003">**[FrozenSeg]**</span> | **Arixv'24.09** | FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.03525) | [`[code]`](https://github.com/chenxi52/FrozenSeg)
+40. <span id = "1003">**[GBA]**</span> | **Arixv'24.09** | Generalization Boosted Adapter for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.08468)
+41. <span id = "1003">**[SMART]**</span> | **Arixv'24.09** | Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2409.16278)
 
 
 
@@ -134,12 +136,18 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 25. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
 26. <span id = "2005">**[LaVG]**</span> | **ECCV'24** | In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2408.04961) | [`[code]`](https://github.com/dahyun-kang/lavg)
 27. <span id = "2005">**[ITACLIP]**</span> | **Arxiv'24.11** | ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements | [`[pdf]`](https://arxiv.org/pdf/2411.12044) | [`[code]`](https://github.com/m-arda-aydn/ITACLIP)
+28. <span id = "2005">**[Trident]**</span> | **Arxiv'24.11** | Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.09219) | [`[code]`](https://github.com/YuHengsss/Trident)
+29. <span id = "2005">**[CorrCLIP]**</span> | **Arxiv'24.11** | CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.10086)
+30. <span id = "2005">**[CLIPer]**</span> | **Arxiv'24.11** | CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.13836)  | [`[code]`](https://github.com/linsun449/cliper.code)
+31. <span id = "2005">**[ResCLIP]**</span> | **Arxiv'24.11** | ResCLIP: Residual Attention for Training-free Dense Vision-language Inference | [`[pdf]`](https://arxiv.org/pdf/2411.15851)  | [`[code]`](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
+32. <span id = "2005">**[SC-CLIP]**</span> | **Arxiv'24.11** | Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.15869)  | [`[code]`](https://github.com/SuleBai/SC-CLIP)
 
   
 
 ### Others
 
 1. <span id = "4001">**[EntitySeg]**</span> | **Arxiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
+2. <span id = "4001">**[PixelCLIP]**</span> | **NeurIPS'24** | Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels | [`[pdf]`](https://arxiv.org/pdf/2409.19846)  | [`[code]`](https://cvlab-kaist.github.io/PixelCLIP/)
 
 ## Zero-Shot Semantic Segmentation
 Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods split each dataset to seen classes and unseen classes.
@@ -209,6 +217,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 30. <span id = "3001">**[OVLW-DETR]**</span> | **Arxiv'24.07** | OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer | [`[pdf]`](https://arxiv.org/pdf/2407.10655) | [`[code]`](https://github.com/wanghao9610/OV-DINO)
 31. <span id = "3001">**[LaMI-DETR]**</span> | **ECCV'24** | LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction | [`[pdf]`](https://arxiv.org/pdf/2407.11335) | [`[code]`](https://github.com/eternaldolphin/LaMI-DETR)
 32. <span id = "3001">**[MarvelOVD]**</span> | **ECCV'24** | MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2407.21465) | [`[code]`](https://github.com/wkfdb/MarvelOVD)
+33. <span id = "3001">**[DetLH]**</span> | **NeurIPS'24** | Open-Vocabulary Object Detection via Language
+Hierarchy | [`[pdf]`](https://arxiv.org/pdf/2410.20371) 
 
 
 
@@ -257,6 +267,13 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 34. <span id = "3001">**[OVA-DETR]**</span> | **Arxiv'24.08** | OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion | [`[pdf]`](https://www.arxiv.org/pdf/2408.12246) | [`[code]`](https://github.com/GT-Wei/OVA-DETR)
 35. <span id = "3001">**[OVAL]**</span> | **Arxiv'24.08** | Open-vocabulary Temporal Action Localization using VLMs | [`[pdf]`](https://arxiv.org/pdf/2408.17422) | [`[code]`](https://microsoft.github.io/VLM-Video-Action-Localization/)
 36. <span id = "3001">**[EMPOWER]**</span> | **IROS'24** | EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution | [`[pdf]`](https://arxiv.org/pdf/2408.17379) | [`[code]`](https://lab-rococo-sapienza.github.io/empower/)
+37. <span id = "3001">**[AnytimeCL]**</span> | **ECCV'24(Oral)** | Anytime Continual Learning for Open Vocabulary Classification | [`[pdf]`](https://arxiv.org/pdf/2409.08518) | [`[code]`](https://github.com/jessemelpolio/AnytimeCL)
+38. <span id = "3001">**[OWL]**</span> | **IJCV'24** | Lidar Panoptic Segmentation in an Open World | [`[pdf]`](https://arxiv.org/pdf/2409.14273) | [`[code]`](https://github.com/jessemelpolio/AnytimeCL)
+39. <span id = "3001">**[DWI]**</span> | **Arxiv'24.10** | Overcoming Domain Limitations in Open-vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2410.11536) | [`[code]`](https://github.com/dongjunhwang/dwi)
+40. <span id = "3001">**[OVT-B-Dataset]**</span> | **NeurIPS'24** | OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking | [`[pdf]`](https://arxiv.org/pdf/2410.17534) | [`[code]`](https://github.com/Coo1Sea/OVT-B-Dataset)
+41. <span id = "3001">**[OpenMixer]**</span> | **WACV'25** | Exploiting VLM Localizability and Semantics for Open Vocabulary Action | [`[pdf]`](https://arxiv.org/pdf/2411.10922) | [`[code]`](https://github.com/Cogito2012/OpenMixer)
+42. <span id = "3001">**[Octree-Graph]**</span> | **Arxiv'24.11** | Open-Vocabulary Octree-Graph for 3D Scene Understanding Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.16253) 
+43. <span id = "3001">**[Fun3DU]**</span> | **Arxiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://arxiv.org/pdf/2411.16310) 
 
 
 
