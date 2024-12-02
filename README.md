@@ -230,6 +230,9 @@ Hierarchy | [`[pdf]`](https://arxiv.org/pdf/2410.20371)
 2. <span id = "3001">**[Open-Vocabulary SAM]**</span> | **ECCV'24** | Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively | [`[pdf]`](https://arxiv.org/pdf/2401.02955.pdf) | [`[code]`](https://github.com/HarborYuan/ovsam)
 3. <span id = "3001">**[OMG-Seg]**</span> | **CVPR'24** | OMG-Seg: Is One Model Good Enough For All Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2401.10229.pdf) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 4. <span id = "3001">**[OMG-LLaVA]**</span> | **NeurIPS'24** | OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding | [`[pdf]`](https://arxiv.org/pdf/2406.19389) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
+5. <span id = "3001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/pdf/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
+6. <span id = "3001">**[HyperSeg]**</span> | **Arxiv'24.11** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | [`[pdf]`](https://arxiv.org/pdf/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
+
 
 ## Other Open-Vocabulary Related Work
 
