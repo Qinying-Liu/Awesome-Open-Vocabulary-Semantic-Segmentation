@@ -144,6 +144,9 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 30. <span id = "2005">**[CLIPer]**</span> | **ArXiv'24.11** | CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.13836)  | [`[code]`](https://github.com/linsun449/cliper.code)
 31. <span id = "2005">**[ResCLIP]**</span> | **ArXiv'24.11** | ResCLIP: Residual Attention for Training-free Dense Vision-language Inference | [`[pdf]`](https://ArXiv.org/pdf/2411.15851)  | [`[code]`](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
 32. <span id = "2005">**[SC-CLIP]**</span> | **ArXiv'24.11** | Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.15869)  | [`[code]`](https://github.com/SuleBai/SC-CLIP)
+33. <span id = "2005">**[Talk2DINO]**</span> | **ArXiv'24.11** | Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/lorebianchi98/Talk2DINO)
+34. <span id = "2005">**[CASS]**</span> | **ArXiv'24.11** | Distilling Spectral Graph for Object-Context Aware
+Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.17150) | [`[code]`](https://micv-yonsei.github.io/cass/)
 
   
 
@@ -283,6 +286,7 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 43. <span id = "3001">**[Fun3DU]**</span> | **ArXiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://ArXiv.org/pdf/2411.16310)
 44. <span id = "3001">**[Fun3DU]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2407.21721)
 45. <span id = "3001">**[MASA]**</span> | **CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://ArXiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
+46. <span id = "3001">**[OVOW]**</span> | **ArXiv'24.11** | From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects | [`[pdf]`](https://arxiv.org/pdf/2411.18207) | [`[code]`](https://github.com/343gltysprk/ovow)
 
 
 
