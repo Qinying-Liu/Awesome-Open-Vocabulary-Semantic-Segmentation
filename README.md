@@ -284,7 +284,7 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 41. <span id = "3001">**[OpenMixer]**</span> | **WACV'25** | Exploiting VLM Localizability and Semantics for Open Vocabulary Action | [`[pdf]`](https://ArXiv.org/pdf/2411.10922) | [`[code]`](https://github.com/Cogito2012/OpenMixer)
 42. <span id = "3001">**[Octree-Graph]**</span> | **ArXiv'24.11** | Open-Vocabulary Octree-Graph for 3D Scene Understanding Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.16253) 
 43. <span id = "3001">**[Fun3DU]**</span> | **ArXiv'24.11** | Functionality understanding and segmentation in 3D scenes | [`[pdf]`](https://ArXiv.org/pdf/2411.16310)
-44. <span id = "3001">**[Fun3DU]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2407.21721)
+44. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2407.21721)
 45. <span id = "3001">**[MASA]**</span> | **CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://ArXiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
 46. <span id = "3001">**[OVOW]**</span> | **ArXiv'24.11** | From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects | [`[pdf]`](https://arxiv.org/pdf/2411.18207) | [`[code]`](https://github.com/343gltysprk/ovow)
 
