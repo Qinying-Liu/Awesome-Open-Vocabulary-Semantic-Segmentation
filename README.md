@@ -287,6 +287,8 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 44. <span id = "3001">**[OV-AVSS]**</span> | **ACM MM'24(Oral)** | Open-Vocabulary Audio-Visual Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2407.21721)
 45. <span id = "3001">**[MASA]**</span> | **CVPR'24(Highlight)** | Matching Anything by Segmenting Anything | [`[pdf]`](https://ArXiv.org/pdf/2406.04221) | [`[code]`](https://github.com/siyuanliii/masa)
 46. <span id = "3001">**[OVOW]**</span> | **ArXiv'24.11** | From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects | [`[pdf]`](https://arxiv.org/pdf/2411.18207) | [`[code]`](https://github.com/343gltysprk/ovow)
+47. <span id = "3001">**[DINO-X]**</span> | **ArXiv'24.11** | DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding | [`[pdf]`](https://arxiv.org/pdf/2411.14347) | [`[code]`](https://github.com/IDEA-Research/DINO-X-API)
+48. <span id = "3001">**[CellSeg1]**</span> | **ArXiv'24.12** | CellSeg1: Robust Cell Segmentation with One Training Image | [`[pdf]`](https://arxiv.org/pdf/2412.01410) 
 
 
 
