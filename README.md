@@ -299,6 +299,7 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 
 1. Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://ArXiv.org/abs/2306.15880)
 2. A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future | [`[pdf]`](https://ArXiv.org/abs/2307.09220)
+3. Image Segmentation in Foundation Model Era: A Survey | [`[pdf]`](https://arxiv.org/abs/2408.12957v3)
 
  
 
