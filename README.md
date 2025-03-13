@@ -72,7 +72,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 42. <span id = "1003">**[GBA]**</span> | **ArXiv'24.09** | Generalization Boosted Adapter for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2409.08468)
 43. <span id = "1003">**[SMART]**</span> | **ArXiv'24.09** | Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2409.16278)
 44. <span id = "1003">**[ESC-Net]**</span> | **ArXiv'24.11** | Effective SAM Combination for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.14723)
-45. <span id = "1003">**[Mask-Adapter]**</span> | **ArXiv'24.12** | Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation
+45. <span id = "1003">**[Mask-Adapter]**</span> | **CVPR'25** | Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation
  | [`[pdf]`](https://arxiv.org/pdf/2412.04533) | [`[code]`](https://github.com/hustvl/MaskAdapter)
 
 
