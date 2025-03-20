@@ -50,7 +50,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 20. <span id = "1003">**[FC-CLIP]**</span> | **NeurIPS'23** | Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP | [`[pdf]`](https://ArXiv.org/abs/2308.02487) | [`[code]`](https://github.com/bytedance/fc-clip)
 21. <span id = "1003">**[MAFT]**</span> | **NeurIPS'23** | Learning Mask-aware CLIP Representations for Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/abs/2310.00240) | [`[code]`](https://github.com/jiaosiyu1999/MAFT)
 22. <span id = "1003">**[ADA]**</span> | **NeurIPS'23** | Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation | [`[pdf]`](https://ArXiv.org/abs/2309.00096)
-23. <span id = "1003">**[Dao et al]**</span> | **TMM** | Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10306291)
+23. <span id = "1003">**[Dao et al.]**</span> | **TMM** | Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10306291)
 24. <span id = "1003">**[SELF-SEG]**</span> | **ArXiv'23.12** | Self-Guided Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2312.04539) 
 25. <span id = "1003">**[OpenSD]**</span> | **ArXiv'23.12** | OpenSD: Unified Open-Vocabulary Segmentation and Detection | [`[pdf]`](https://ArXiv.org/abs/2312.06703) | [`[code]`](https://github.com/strongwolf/OpenSD)
 26. <span id = "1003">**[SILC]**</span> | **ArXiv'23.12** | SILC: Improving Vision Language Pretraining with Self-Distillation | [`[pdf]`](https://ArXiv.org/pdf/2310.13355)
@@ -296,7 +296,7 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 50. <span id = "3001">**[Seg-TTO]**</span> | **ArXiv'25.03** | Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.04696) | [`[code]`](https://github.com/ulindup/segtto)
 51. <span id = "3001">**[Chicken-and-egg]**</span> | **ArXiv'25.02** | From Open-Vocabulary to Vocabulary-Free Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2502.11891)
 52. <span id = "3001">**[Open-MeDe]**</span> | **ArXiv'25.02** | Learning to Generalize without Bias for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2502.20158)
-53. <span id = "3001">**[-]**</span> | **ArXiv'25.03** | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | [`[pdf]`](https://arxiv.org/pdf/2503.06287)
+53. <span id = "3001">**[Kang et al.]**</span> | **ArXiv'25.03** | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | [`[pdf]`](https://arxiv.org/pdf/2503.06287)
 54. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145) 
 
 
