@@ -73,7 +73,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 43. <span id = "1003">**[SMART]**</span> | **ArXiv'24.09** | Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2409.16278)
 44. <span id = "1003">**[ESC-Net]**</span> | **ArXiv'24.11** | Effective SAM Combination for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.14723)
 45. <span id = "1003">**[Mask-Adapter]**</span> | **CVPR'25** | Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.04533) | [`[code]`](https://github.com/hustvl/MaskAdapter)
-46. <span id = "1003">**[ERR-Seg]**</span> | **ArXiv'25.1** | Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.17642) | [`[code]`](https://github.com/lchen1019/ERR-Seg)
+46. <span id = "1003">**[ERR-Seg]**</span> | **ArXiv'25.01** | Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.17642) | [`[code]`](https://github.com/lchen1019/ERR-Seg)
+47. <span id = "1003">**[EOV-Seg]**</span> | **AAAI'25** | EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.08628) | [`[code]`](https://github.com/nhw649/EOV-Seg)
 
 
 
@@ -292,8 +293,11 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 47. <span id = "3001">**[DINO-X]**</span> | **ArXiv'24.11** | DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding | [`[pdf]`](https://arxiv.org/pdf/2411.14347) | [`[code]`](https://github.com/IDEA-Research/DINO-X-API)
 48. <span id = "3001">**[CellSeg1]**</span> | **ArXiv'24.12** | CellSeg1: Robust Cell Segmentation with One Training Image | [`[pdf]`](https://arxiv.org/pdf/2412.01410)
 49. <span id = "3001">**[DB-SAM]**</span> | **MICCAI'24(Oral)** | DB-SAM: Delving into High Quality Universal Medical Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2410.04172) | [`[code]`](https://github.com/AlfredQin/DB-SAM)
-50. <span id = "3001">**[Seg-TTO]**</span> | **ArXiv'25.3** | Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.04696) | [`[code]`](https://github.com/ulindup/segtto)
-51. <span id = "3001">**[Chicken-and-egg]**</span> | **ArXiv'25.2** | From Open-Vocabulary to Vocabulary-Free Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2502.11891) 
+50. <span id = "3001">**[Seg-TTO]**</span> | **ArXiv'25.03** | Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.04696) | [`[code]`](https://github.com/ulindup/segtto)
+51. <span id = "3001">**[Chicken-and-egg]**</span> | **ArXiv'25.02** | From Open-Vocabulary to Vocabulary-Free Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2502.11891)
+52. <span id = "3001">**[Open-MeDe]**</span> | **ArXiv'25.02** | Learning to Generalize without Bias for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2502.20158)
+53. <span id = "3001">**[-]**</span> | **ArXiv'25.03** | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | [`[pdf]`](https://arxiv.org/pdf/2503.06287)
+54. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145) 
 
 
 
