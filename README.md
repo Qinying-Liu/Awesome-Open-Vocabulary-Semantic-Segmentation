@@ -297,7 +297,8 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 51. <span id = "3001">**[Chicken-and-egg]**</span> | **ArXiv'25.02** | From Open-Vocabulary to Vocabulary-Free Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2502.11891)
 52. <span id = "3001">**[Open-MeDe]**</span> | **ArXiv'25.02** | Learning to Generalize without Bias for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2502.20158)
 53. <span id = "3001">**[Kang et al.]**</span> | **ArXiv'25.03** | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | [`[pdf]`](https://arxiv.org/pdf/2503.06287)
-54. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145) 
+54. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145)
+55. <span id = "3001">**[GSNet]**</span> | **AAAI'25** | Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2503.08145](https://arxiv.org/pdf/2412.19492)) 
 
 
 
