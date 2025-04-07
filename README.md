@@ -75,6 +75,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 45. <span id = "1003">**[Mask-Adapter]**</span> | **CVPR'25** | Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.04533) | [`[code]`](https://github.com/hustvl/MaskAdapter)
 46. <span id = "1003">**[ERR-Seg]**</span> | **ArXiv'25.01** | Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.17642) | [`[code]`](https://github.com/lchen1019/ERR-Seg)
 47. <span id = "1003">**[EOV-Seg]**</span> | **AAAI'25** | EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.08628) | [`[code]`](https://github.com/nhw649/EOV-Seg)
+48. <span id = "1003">**[SemLA]**</span> | **CVPR'25** | Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.21780) | [`[code]`](https://github.com/rezaqorbani/SemLA)(New benchmark)
 
 
 
@@ -109,6 +110,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2404.04231)
 27. <span id = "2005">**[LLM-Supervision]**</span> | **ArXiv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://ArXiv.org/pdf/2404.00701)
 28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
+29. <span id = "2005">**[LPOSS]**</span> | **CVPR'25** | LPOSS: Label Propagation Over Patches and Pixels
+for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.19777) | [`[code]`](https://github.com/vladan-stojnic/LPOSS)
 
 
 
@@ -226,8 +229,11 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 30. <span id = "3001">**[OVLW-DETR]**</span> | **ArXiv'24.07** | OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer | [`[pdf]`](https://ArXiv.org/pdf/2407.10655) | [`[code]`](https://github.com/wanghao9610/OV-DINO)
 31. <span id = "3001">**[LaMI-DETR]**</span> | **ECCV'24** | LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction | [`[pdf]`](https://ArXiv.org/pdf/2407.11335) | [`[code]`](https://github.com/eternaldolphin/LaMI-DETR)
 32. <span id = "3001">**[MarvelOVD]**</span> | **ECCV'24** | MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection | [`[pdf]`](https://ArXiv.org/pdf/2407.21465) | [`[code]`](https://github.com/wkfdb/MarvelOVD)
-33. <span id = "3001">**[DetLH]**</span> | **NeurIPS'24** | Open-Vocabulary Object Detection via Language
-Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371) 
+33. <span id = "3001">**[DetLH]**</span> | **NeurIPS'24** | Open-Vocabulary Object Detection via Language Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
+34. <span id = "3001">**[CCKT-Det]**</span> | **ICLR'25** | Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2503.11005)
+35. <span id = "3001">**[HD-OVD]**</span> | **TMM'25** | A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2503.10152) | [`[code]`](https://github.com/iSEE-Laboratory/HD-OVD)
+
+
 
 
 
@@ -298,7 +304,8 @@ Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 52. <span id = "3001">**[Open-MeDe]**</span> | **ArXiv'25.02** | Learning to Generalize without Bias for Open-Vocabulary Action Recognition | [`[pdf]`](https://arxiv.org/pdf/2502.20158)
 53. <span id = "3001">**[Kang et al.]**</span> | **ArXiv'25.03** | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | [`[pdf]`](https://arxiv.org/pdf/2503.06287)
 54. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145)
-55. <span id = "3001">**[GSNet]**</span> | **AAAI'25** | Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2503.08145](https://arxiv.org/pdf/2412.19492)) 
+55. <span id = "3001">**[GSNet]**</span> | **AAAI'25** | Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2503.08145](https://arxiv.org/pdf/2412.19492))
+56. <span id = "3001">**[ComCa]**</span> | **CVPR'25** | Compositional Caching for Training-free Open-vocabulary Attribute Detection | [`[pdf]`](https://arxiv.org/pdf/2503.19145) | [`[code]`](https://github.com/marco-garosi/ComCa)
 
 
 
