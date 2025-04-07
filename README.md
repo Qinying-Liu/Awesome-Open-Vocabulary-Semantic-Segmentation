@@ -75,7 +75,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 45. <span id = "1003">**[Mask-Adapter]**</span> | **CVPR'25** | Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.04533) | [`[code]`](https://github.com/hustvl/MaskAdapter)
 46. <span id = "1003">**[ERR-Seg]**</span> | **ArXiv'25.01** | Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.17642) | [`[code]`](https://github.com/lchen1019/ERR-Seg)
 47. <span id = "1003">**[EOV-Seg]**</span> | **AAAI'25** | EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.08628) | [`[code]`](https://github.com/nhw649/EOV-Seg)
-48. <span id = "1003">**[SemLA]**</span> | **CVPR'25** | Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.21780) | [`[code]`](https://github.com/rezaqorbani/SemLA)(New benchmark)
+48. <span id = "1003">**[SemLA]**</span> | **CVPR'25** | Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.21780) | [`[code]`](https://github.com/rezaqorbani/SemLA) | (Note: new benchmark.)
 
 
 
