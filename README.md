@@ -76,6 +76,10 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 46. <span id = "1003">**[ERR-Seg]**</span> | **ArXiv'25.01** | Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.17642) | [`[code]`](https://github.com/lchen1019/ERR-Seg)
 47. <span id = "1003">**[EOV-Seg]**</span> | **AAAI'25** | EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.08628) | [`[code]`](https://github.com/nhw649/EOV-Seg)
 48. <span id = "1003">**[SemLA]**</span> | **CVPR'25** | Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.21780) | [`[code]`](https://github.com/rezaqorbani/SemLA) | (Note: new benchmark.)
+49. <span id = "1003">**[FGA-Seg]**</span> | **ArXiv'25.01** | FGA-Seg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.00877) | [`[code]`](https://github.com/LiBingyu01/FGA-seg)
+50. <span id = "1003">**[OMTSeg]**</span> | **ICIP'24** | Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model | [`[pdf]`](https://arxiv.org/pdf/2412.18917) | [`[code]`](https://github.com/AI-Application-and-Integration-Lab/OMTSeg)
+51. <span id = "1003">**[MaskCLIP++]**</span> | **ArXiv'25.03** | MaskCLIP++: High-Quality Mask Tuning Matters for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.11464) | [`[code]`](https://github.com/HVision-NKU/MaskCLIPpp)
+
 
 
 
@@ -151,8 +155,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 31. <span id = "2005">**[ResCLIP]**</span> | **ArXiv'24.11** | ResCLIP: Residual Attention for Training-free Dense Vision-language Inference | [`[pdf]`](https://ArXiv.org/pdf/2411.15851)  | [`[code]`](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
 32. <span id = "2005">**[SC-CLIP]**</span> | **ArXiv'24.11** | Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2411.15869)  | [`[code]`](https://github.com/SuleBai/SC-CLIP)
 33. <span id = "2005">**[Talk2DINO]**</span> | **ArXiv'24.11** | Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/lorebianchi98/Talk2DINO)
-34. <span id = "2005">**[CASS]**</span> | **ArXiv'24.11** | Distilling Spectral Graph for Object-Context Aware
-Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.17150) | [`[code]`](https://micv-yonsei.github.io/cass/)
+34. <span id = "2005">**[CASS]**</span> | **CVPR'25** | Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.17150) | [`[code]`](https://micv-yonsei.github.io/cass/)
 
   
 
@@ -232,6 +235,8 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 33. <span id = "3001">**[DetLH]**</span> | **NeurIPS'24** | Open-Vocabulary Object Detection via Language Hierarchy | [`[pdf]`](https://ArXiv.org/pdf/2410.20371)
 34. <span id = "3001">**[CCKT-Det]**</span> | **ICLR'25** | Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2503.11005)
 35. <span id = "3001">**[HD-OVD]**</span> | **TMM'25** | A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2503.10152) | [`[code]`](https://github.com/iSEE-Laboratory/HD-OVD)
+36. <span id = "3001">**[LLMDet]**</span> | **CVPR'25(Highlight)** | LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models | [`[pdf]`](https://arxiv.org/pdf/2501.18954) | [`[code]`](https://github.com/iSEE-Laboratory/LLMDet)
+37. <span id = "3001">**[VMCNet]**</span> | **ArXiv'25.03** | Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2501.16981)
 
 
 
@@ -246,6 +251,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 4. <span id = "3001">**[OMG-LLaVA]**</span> | **NeurIPS'24** | OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding | [`[pdf]`](https://ArXiv.org/pdf/2406.19389) | [`[code]`](https://github.com/lxtGH/OMG-Seg)
 5. <span id = "3001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://ArXiv.org/pdf/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
 6. <span id = "3001">**[HyperSeg]**</span> | **ArXiv'24.11** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | [`[pdf]`](https://ArXiv.org/pdf/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
+7. <span id = "3001">**[SAMRefiner]**</span> | **ICLR'25** | SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement | [`[pdf]`](https://arxiv.org/pdf/2502.06756) | [`[code]`](https://github.com/linyq2117/samrefiner)
 
 
 ## Other Open-Vocabulary Related Work
