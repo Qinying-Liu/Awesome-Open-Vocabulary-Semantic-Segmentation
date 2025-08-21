@@ -240,9 +240,10 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 36. <span id = "3001">**[LLMDet]**</span> | **CVPR'25(Highlight)** | LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models | [`[pdf]`](https://arxiv.org/pdf/2501.18954) | [`[code]`](https://github.com/iSEE-Laboratory/LLMDet)
 37. <span id = "3001">**[VMCNet]**</span> | **ArXiv'25.03** | Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2501.16981)
 38. <span id = "3001">**[Vireo]**</span> | **ArXiv'25.06** | Vireo: Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2506.09881)
+39. <span id = "3001">**[ATAS]**</span> | **ArXiv'25.06** | ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction | [`[pdf]`](https://arxiv.org/pdf/2506.08678)
 
 
-Vireo: Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation
+
 
 
 
