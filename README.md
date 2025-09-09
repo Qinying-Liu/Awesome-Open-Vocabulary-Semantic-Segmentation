@@ -315,6 +315,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 53. <span id = "3001">**[TRACT]**</span> | **ArXiv'25.03** | Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking | [`[pdf]`](https://arxiv.org/pdf/2503.08145)
 54. <span id = "3001">**[GSNet]**</span> | **AAAI'25** | Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2503.08145](https://arxiv.org/pdf/2412.19492))
 55. <span id = "3001">**[ComCa]**</span> | **CVPR'25** | Compositional Caching for Training-free Open-vocabulary Attribute Detection | [`[pdf]`](https://arxiv.org/pdf/2503.19145) | [`[code]`](https://github.com/marco-garosi/ComCa)
+56. <span id = "3001">**[BOLqGLKOLuJGI. ]**</span> | **Arxiv'25.3** | Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments | [`[pdf]`](https://arxiv.org/pdf/2503.23105)
 
 
 
