@@ -79,7 +79,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 49. <span id = "1003">**[FGA-Seg]**</span> | **ArXiv'25.01** | FGA-Seg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2501.00877) | [`[code]`](https://github.com/LiBingyu01/FGA-seg)
 50. <span id = "1003">**[OMTSeg]**</span> | **ICIP'24** | Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model | [`[pdf]`](https://arxiv.org/pdf/2412.18917) | [`[code]`](https://github.com/AI-Application-and-Integration-Lab/OMTSeg)
 51. <span id = "1003">**[MaskCLIP++]**</span> | **ArXiv'25.03** | MaskCLIP++: High-Quality Mask Tuning Matters for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.11464) | [`[code]`](https://github.com/HVision-NKU/MaskCLIPpp)
-52. <span id = "1003">**[OVSNet]**</span> | **ICCV'25** | Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation | [`[pdf]`](https://www.arxiv.org/pdf/2506.16058) 
+52. <span id = "1003">**[OVSNet]**</span> | **ICCV'25** | Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation | [`[pdf]`](https://www.arxiv.org/pdf/2506.16058)
+53. <span id = "1003">**[R-SC-CLIPSelf]**</span> | **ICLR'25** | Refining CLIP's Spatial Awareness: A Visual-Centric Perspective | [`[pdf]`](https://arxiv.org/pdf/2504.02328) 
 
 
 
