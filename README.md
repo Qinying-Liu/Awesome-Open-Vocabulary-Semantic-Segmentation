@@ -316,6 +316,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 54. <span id = "3001">**[GSNet]**</span> | **AAAI'25** | Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2503.08145](https://arxiv.org/pdf/2412.19492))
 55. <span id = "3001">**[ComCa]**</span> | **CVPR'25** | Compositional Caching for Training-free Open-vocabulary Attribute Detection | [`[pdf]`](https://arxiv.org/pdf/2503.19145) | [`[code]`](https://github.com/marco-garosi/ComCa)
 56. <span id = "3001">**[BOLqGLKOLuJGI. ]**</span> | **Arxiv'25.3** | Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments | [`[pdf]`](https://arxiv.org/pdf/2503.23105)
+57. <span id = "3001">**[PRISM-0]**</span> | **Arxiv'25.4** | PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/pdf/2504.00844)
 
 
 
