@@ -318,6 +318,9 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 55. <span id = "3001">**[ComCa]**</span> | **CVPR'25** | Compositional Caching for Training-free Open-vocabulary Attribute Detection | [`[pdf]`](https://arxiv.org/pdf/2503.19145) | [`[code]`](https://github.com/marco-garosi/ComCa)
 56. <span id = "3001">**[BOLqGLKOLuJGI. ]**</span> | **Arxiv'25.3** | Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments | [`[pdf]`](https://arxiv.org/pdf/2503.23105)
 57. <span id = "3001">**[PRISM-0]**</span> | **Arxiv'25.4** | PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks | [`[pdf]`](https://arxiv.org/pdf/2504.00844)
+58. <span id = "3001">**[AerOSeg]**</span> | **CVPR'25 EarthVision workshop** | AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images | [`[pdf]`](https://arxiv.org/pdf/2504.09203)
+59. <span id = "3001">**[NVSMask3D]**</span> | **SCIA'25** | NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation | [`[pdf]`](https://arxiv.org/pdf/2504.14638)
+60. <span id = "3001">**[RESAnything]**</span> | **Arxiv'25.5** | RESAnything: Attribute Prompting for Arbitrary Referring Segmentation | [`[pdf]`](https://arxiv.org/pdf/2505.02867) | [`[code]`](https://github.com/suikei-wang/RESAnything)
 
 
 
