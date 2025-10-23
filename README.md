@@ -117,8 +117,9 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 26. <span id = "2005">**[CoDe]**</span> | **CVPR'24** | Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2404.04231)
 27. <span id = "2005">**[LLM-Supervision]**</span> | **ArXiv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://ArXiv.org/pdf/2404.00701)
 28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
-29. <span id = "2005">**[LPOSS]**</span> | **CVPR'25** | LPOSS: Label Propagation Over Patches and Pixels
-for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.19777) | [`[code]`](https://github.com/vladan-stojnic/LPOSS)
+29. <span id = "2005">**[LPOSS]**</span> | **CVPR'25** | LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.19777) | [`[code]`](https://github.com/vladan-stojnic/LPOSS)
+30. <span id = "2005">**[SynSeg]**</span> | **ArXiv'25.08** | SynSeg: Feature Synergy for Multi-Category Contrastive Learning in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2508.06115)
+
 
 
 
