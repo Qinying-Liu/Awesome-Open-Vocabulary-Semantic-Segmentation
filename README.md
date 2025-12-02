@@ -161,6 +161,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 33. <span id = "2005">**[Talk2DINO]**</span> | **ArXiv'24.11** | Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/lorebianchi98/Talk2DINO)
 34. <span id = "2005">**[CASS]**</span> | **CVPR'25** | Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.17150) | [`[code]`](https://micv-yonsei.github.io/cass/)
 35. <span id = "2005">**[ReME]**</span> | **ICCV'25** | ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2506.21233) | [`[code]`](https://github.com/xiweix/ReME)
+36. <span id = "2005">**[SFP]**</span>  | **ICCV'25** | Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation | [`[pdf]`]([https://arxiv.org/pdf/2506.21233](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Feature_Purification_Matters_Suppressing_Outlier_Propagation_for_Training-Free_Open-Vocabulary_Semantic_ICCV_2025_paper.html)) | [`[code]`](https://github.com/Kimsure/SFP)
 
   
 
