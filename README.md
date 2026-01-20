@@ -85,6 +85,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 55. <span id = "1003">**[VocAlign]**</span> | **BMVC'25** | Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.15225) | [`[code]`](https://github.com/Sisso16/VocAlign)
 56. <span id = "1003">**[SAM-MI]**</span> | **ArXiv'25.11** | SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM | [`[pdf]`](https://arxiv.org/pdf/2511.20027)
 57. <span id = "1003">**[X-Agent]**</span> | **ACM MM'25** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.01275) | [`[code]`](https://github.com/liblacklucy/X-Agent)
+58. <span id = "1003">**[Personalized OVSS]**</span> | **ICCV'25** | Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.11030)
 
 
 
@@ -121,7 +122,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 27. <span id = "2005">**[LLM-Supervision]**</span> | **ArXiv'24.03** | Training-Free Semantic Segmentation via LLM-Supervision | [`[pdf]`](https://ArXiv.org/pdf/2404.00701)
 28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
 29. <span id = "2005">**[LPOSS]**</span> | **CVPR'25** | LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.19777) | [`[code]`](https://github.com/vladan-stojnic/LPOSS)
-30. <span id = "2005">**[SynSeg]**</span> | **ArXiv'25.08** | SynSeg: Feature Synergy for Multi-Category Contrastive Learning in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2508.06115)
+30. <span id = "2005">**[SynSeg]**</span> | **AAAI'26** | SynSeg: Feature Synergy for Multi-Category Contrastive Learning in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2508.06115)
 31. <span id = "2005">**[RF-CLIP]**</span> | **AAAI'26** | Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective | [`[pdf]`](https://arxiv.org/pdf/2511.16170) | [`[code]`](https://github.com/liblacklucy/RF-CLIP)
 
 
@@ -165,6 +166,8 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 33. <span id = "2005">**[Talk2DINO]**</span> | **ArXiv'24.11** | Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/lorebianchi98/Talk2DINO)
 34. <span id = "2005">**[CASS]**</span> | **CVPR'25** | Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2411.17150) | [`[code]`](https://micv-yonsei.github.io/cass/)
 35. <span id = "2005">**[ReME]**</span> | **ICCV'25** | ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2506.21233) | [`[code]`](https://github.com/xiweix/ReME)
+36. <span id = "2005">**[FSA]**</span> | **ICCV'25** | Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2508.20265) | [`[code]`](https://github.com/chi-chi-zx/FSA)
+37. <span id = "2005">**[FreeCP]**</span> | **ICCV'25** | Training-Free Class Purification for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Training-Free_Class_Purification_for_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf) | [`[code]`](https://github.com/chenqi1126/FreeCP)
 
   
 
