@@ -81,7 +81,8 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 51. <span id = "1003">**[MaskCLIP++]**</span> | **ArXiv'25.03** | MaskCLIP++: High-Quality Mask Tuning Matters for Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2412.11464) | [`[code]`](https://github.com/HVision-NKU/MaskCLIPpp)
 52. <span id = "1003">**[OVSNet]**</span> | **ICCV'25** | Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation | [`[pdf]`](https://www.arxiv.org/pdf/2506.16058)
 53. <span id = "1003">**[R-SC-CLIPSelf]**</span> | **ICLR'25** | Refining CLIP's Spatial Awareness: A Visual-Centric Perspective | [`[pdf]`](https://arxiv.org/pdf/2504.02328)
-54. <span id = "1003">**[OpenWorldSAM]**</span> | **NeurIPS'25 Spotlight** | OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts | [`[pdf]`](https://arxiv.org/pdf/2507.05427) 
+54. <span id = "1003">**[OpenWorldSAM]**</span> | **NeurIPS'25 Spotlight** | OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts | [`[pdf]`](https://arxiv.org/pdf/2507.05427)
+55. <span id = "1003">**[VocAlign]**</span> | **BMVC'25** | Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.15225) | [`[code]`](https://github.com/Sisso16/VocAlign)
 
 
 
