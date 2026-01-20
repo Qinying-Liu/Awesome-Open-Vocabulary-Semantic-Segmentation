@@ -119,6 +119,7 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 28. <span id = "2005">**[ProxyCLIP]**</span> | **ECCV'24** | ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2408.04883) | [`[code]`](https://github.com/mc-lan/ProxyCLIP)
 29. <span id = "2005">**[LPOSS]**</span> | **CVPR'25** | LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2503.19777) | [`[code]`](https://github.com/vladan-stojnic/LPOSS)
 30. <span id = "2005">**[SynSeg]**</span> | **ArXiv'25.08** | SynSeg: Feature Synergy for Multi-Category Contrastive Learning in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2508.06115)
+31. <span id = "2005">**[RF-CLIP]**</span> | **AAAI'26** | Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective | [`[pdf]`](https://arxiv.org/pdf/2511.16170) | [`[code]`](https://github.com/liblacklucy/RF-CLIP)
 
 
 
@@ -244,6 +245,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 37. <span id = "3001">**[VMCNet]**</span> | **ArXiv'25.03** | Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2501.16981)
 38. <span id = "3001">**[Vireo]**</span> | **ArXiv'25.06** | Vireo: Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2506.09881)
 39. <span id = "3001">**[ATAS]**</span> | **ArXiv'25.06** | ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction | [`[pdf]`](https://arxiv.org/pdf/2506.08678)
+40. <span id = "3001">**[SSEP]**</span> | **ArXiv'25.11** | State and Scene Enhanced Prototypes for Weakly Supervised Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/pdf/2511.18012)
 
 
 
