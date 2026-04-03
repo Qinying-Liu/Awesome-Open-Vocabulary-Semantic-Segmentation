@@ -82,10 +82,11 @@ The model is trained on fully-supervised semantic segmentation datasets with pix
 52. <span id = "1003">**[OVSNet]**</span> | **ICCV'25** | Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation | [`[pdf]`](https://www.arxiv.org/pdf/2506.16058)
 53. <span id = "1003">**[R-SC-CLIPSelf]**</span> | **ICLR'25** | Refining CLIP's Spatial Awareness: A Visual-Centric Perspective | [`[pdf]`](https://arxiv.org/pdf/2504.02328)
 54. <span id = "1003">**[OpenWorldSAM]**</span> | **NeurIPS'25 Spotlight** | OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts | [`[pdf]`](https://arxiv.org/pdf/2507.05427)
-55. <span id = "1003">**[VocAlign]**</span> | **BMVC'25** | Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.15225) | [`[code]`](https://github.com/Sisso16/VocAlign)
-56. <span id = "1003">**[SAM-MI]**</span> | **ArXiv'25.11** | SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM | [`[pdf]`](https://arxiv.org/pdf/2511.20027)
-57. <span id = "1003">**[X-Agent]**</span> | **ACM MM'25** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.01275) | [`[code]`](https://github.com/liblacklucy/X-Agent)
-58. <span id = "1003">**[Personalized OVSS]**</span> | **ICCV'25** | Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.11030)
+55. <span id = "1003">**[Spectrum]**</span> | **AAAI'26** | Learning 3D Texture-Aware Representations for Parsing Diverse Human Clothing and Body Parts | [`[pdf]`](https://arxiv.org/abs/2508.06032) | [`[project]`](https://s-pectrum.github.io/)
+56. <span id = "1003">**[VocAlign]**</span> | **BMVC'25** | Lost in Translation? Vocabulary Alignment for Source-Free Adaptation in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.15225) | [`[code]`](https://github.com/Sisso16/VocAlign)
+57. <span id = "1003">**[SAM-MI]**</span> | **ArXiv'25.11** | SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM | [`[pdf]`](https://arxiv.org/pdf/2511.20027)
+58. <span id = "1003">**[X-Agent]**</span> | **ACM MM'25** | Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2509.01275) | [`[code]`](https://github.com/liblacklucy/X-Agent)
+59. <span id = "1003">**[Personalized OVSS]**</span> | **ICCV'25** | Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.11030)
 
 
 
