@@ -178,6 +178,7 @@ The model is modified from the off-the-shelf large models (e.g., CLIP, Diffusion
 
 1. <span id = "4001">**[EntitySeg]**</span> | **ArXiv'23.11** | Rethinking Evaluation Metrics of Open-Vocabulary Segmentation | [`[pdf]`](https://ArXiv.org/abs/2311.03352)  | [`[code]`](https://github.com/qqlu/Entity/tree/main)
 2. <span id = "4001">**[PixelCLIP]**</span> | **NeurIPS'24** | Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels | [`[pdf]`](https://ArXiv.org/pdf/2409.19846)  | [`[code]`](https://cvlab-kaist.github.io/PixelCLIP/)
+3. <span id = "4001">**[RNS]**</span> | **CVPR'26(Highlight)** | Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation? | [`[pdf]`](https://arxiv.org/pdf/2602.23339)  | [`[code]`](https://github.com/TilemahosAravanis/Retrieve-and-Segment)
 
 ## Zero-Shot Semantic Segmentation
 Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods split each dataset to seen classes and unseen classes.
