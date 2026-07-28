@@ -194,6 +194,7 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 10. <span id = "1006">**[Cascade-CLIP]**</span> | **ICML'24** | Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation | [`[pdf]`](https://ArXiv.org/abs/2406.00670) | [`[code]`](https://github.com/HVision-NKU/Cascade-CLIP)
 11. <span id = "1006">**[SimZSS]**</span> | **ArXiv'24.07** | A Simple Framework for Open-Vocabulary Zero-Shot Segmentation | [`[pdf]`](https://ArXiv.org/pdf/2406.16085)
 12. <span id = "1006">**[CaR]**</span> | **CVPR'24** | CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor | [`[pdf]`](https://ArXiv.org/pdf/2312.07661) | [`[code]`](https://github.com/kevin-ssy/CLIP_as_RNN)
+13. <span id = "1007">**[SM-VCENet]**</span> | **PRL'22** | Zero-Shot Semantic Segmentation via Spatial and Multi-Scale Aware Visual Class Embedding | [`[pdf]`](https://arxiv.org/abs/2111.15181)
 
 ## Referring Image Segmentation
 
@@ -350,4 +351,3 @@ Different from open-vocabulary segmentation (cross-dataset),  zero-shot methods 
 ## Feedback
 
 If you have any suggestions or find missing papers, please don't hesitate to contact me via [tbh3223@mail.ustc.edu.cn](mailto:tbh3223@mail.ustc.edu.cn) or [lydyc@mail.ustc.edu.cn](mailto:lydyc@mail.ustc.edu.cn).
-
